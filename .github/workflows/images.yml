@@ -1,0 +1,82 @@
+name: images
+
+# Downloads product photos for models that have none yet (the code is scraper/images.py in
+# TeoAmpatzis/gpu-prices-gr, checked out read-only), commits them here and publishes this repo on
+# GitHub Pages. The site (Vercel) serves them under /img/. Runs after each price scrape and never
+# inside it, so it can't use up the scrape's time.
+on:
+  schedule:
+    - cron: "50 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "New photos in this run"
+        type: string
+        default: "3000"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: images
+  cancel-in-progress: false
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: images
+
+      - uses: actions/checkout@v4
+        with:
+          repository: TeoAmpatzis/gpu-prices-gr
+          ref: main
+          path: site
+          sparse-checkout: |
+            scraper
+            public/data
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: site/scraper/requirements.txt
+
+      - run: pip install -r site/scraper/requirements.txt
+
+      - name: Download new photos (blocklist.json is never downloaded)
+        env:
+          BUDGET: ${{ inputs.budget || '3000' }}
+        run: python site/scraper/images.py --data site/public/data --out images --budget "$BUDGET"
+
+      - name: Commit
+        working-directory: images
+        run: |
+          git config user.name "TeoAmpatzis"
+          git config user.email "189219701+TeoAmpatzis@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "photos $(date -u +'%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: images
+
+  publish:
+    needs: photos
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
