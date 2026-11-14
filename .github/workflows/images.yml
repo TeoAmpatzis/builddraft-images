@@ -65,6 +65,7 @@ jobs:
             echo "No changes"
           else
             git commit -m "photos $(date -u +'%Y-%m-%d %H:%M')"
+            git pull --rebase -q
             git push
           fi
 
