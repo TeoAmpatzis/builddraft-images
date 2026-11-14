@@ -2,8 +2,9 @@ name: images
 
 # Downloads product photos for models that have none yet (the code is scraper/images.py in
 # TeoAmpatzis/gpu-prices-gr, checked out read-only), commits them here and publishes this repo on
-# GitHub Pages. The site (Vercel) serves them under /img/. Runs after each price scrape and never
-# inside it, so it can't use up the scrape's time.
+# GitHub Pages. The site (Vercel) serves them under /img/. Runs every 6 hours, never inside the price
+# scrape. The least covered category goes first, and the download stops after 100 minutes so the
+# commit step always runs before the 120-minute timeout.
 on:
   schedule:
     - cron: "50 */6 * * *"
@@ -12,7 +13,7 @@ on:
       budget:
         description: "New photos in this run"
         type: string
-        default: "3000"
+        default: "6000"
 
 permissions:
   contents: write
@@ -51,8 +52,8 @@ jobs:
 
       - name: Download new photos (blocklist.json is never downloaded)
         env:
-          BUDGET: ${{ inputs.budget || '3000' }}
-        run: python site/scraper/images.py --data site/public/data --out images --budget "$BUDGET"
+          BUDGET: ${{ inputs.budget || '6000' }}
+        run: python site/scraper/images.py --data site/public/data --out images --budget "$BUDGET" --minutes 100
 
       - name: Commit
         working-directory: images
