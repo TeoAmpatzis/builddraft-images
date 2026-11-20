@@ -101,9 +101,9 @@
  },
  "0024a270f62f": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/036987/36987588/large_20220704151112_andowl_q_mp15_mouse_pad_290mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/036987/36987588/xlarge_20220704151112_andowl_q_mp15_mouse_pad_290mm.jpeg"
  },
  "0025056ff311": {
   "c": "monitor",
@@ -369,9 +369,9 @@
  },
  "0075d80bf1b4": {
   "c": "mousepad",
-  "d": "2026-11-18",
-  "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/064912/64912781/large_20260105124512_razer_rz02_03333300_r3m1_gaming_mouse_pad_gri.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-201064320/images/530/20260408233550_sf_201064320_18207.webp"
  },
  "0077560efc92": {
   "c": "case",
@@ -639,9 +639,9 @@
  },
  "00c637431d06": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/063347/63347541/large_20251003120554_leitz_53850085_mouse_pad_gri.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/063347/63347541/xlarge_20251003120554_leitz_53850085_mouse_pad_gri.jpeg"
  },
  "00c798513bbf": {
   "c": "storage",
@@ -1548,9 +1548,9 @@
  },
  "02025889ffb3": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg61/dUkfX/1XePLy_SX500Y500/1791472240/speedlink-atecs-soft-black-xxl-sl-620101-xxl.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg57/fdVnX/1Xuh6r_SX500Y500/1795152243/speedlink-atecs-soft-black-xxl-sl-620101-xxl.webp"
  },
  "0204a6b5793c": {
   "c": "mouse",
@@ -1692,9 +1692,9 @@
  },
  "022797da5f6f": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/058135/58135121/xlarge_20241230093515_logitech_g840_xl_league_legends_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/058135/58135121/large_20241230093515_logitech_g840_xl_league_legends_mouse_pad.jpeg"
  },
  "0227ff265453": {
   "c": "headphones",
@@ -1906,6 +1906,12 @@
   "c": "psu",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "027a9f41be1f": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203536794/images/530/00005605298647_sf_203536794_5605298647.webp"
  },
  "027ab22f38e7": {
   "c": "mousepad",
@@ -2235,9 +2241,9 @@
  },
  "02e2f9b7be34": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/045425/45425032/large_20230904134255_abysse_dc_comics_the_flash_mouse_pad_235mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/045425/45425032/xlarge_20230904134255_abysse_dc_comics_the_flash_mouse_pad_235mm.jpeg"
  },
  "02e338d45857": {
   "c": "headphones",
@@ -5069,6 +5075,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-10517239/images/530/4713227524988.jpg"
  },
+ "06edaaefee2d": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg53/fD4H3/1XulAZ_SX819Y614/1795169513/asus-zenscreen-mb16fck-ips-forhto-monitor-16-1920x1200-75hz-5ms.webp"
+ },
  "06f103e038e9": {
   "c": "monitor",
   "d": "2026-11-11",
@@ -6055,9 +6067,9 @@
  },
  "08263f3c16a8": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/069301/69301425/large_20260909100939_lexip_x_warner_wonder_woman_pink_xxl_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/069301/69301425/xlarge_20260909100939_lexip_x_warner_wonder_woman_pink_xxl_mouse_pad.jpeg"
  },
  "08264136daf0": {
   "c": "headphones",
@@ -6069,12 +6081,6 @@
   "c": "cooler",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "082b09a50754": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg25/ezEb7/1Xqni2_SX222Y222/1794222714/hama-53011-large-grey-hama-53011.webp"
  },
  "082b1853642d": {
   "c": "cooler",
@@ -6469,12 +6475,6 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "shopflix"
- },
- "08a2600b7a7c": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg0/eiIz6/1XjTkT_SX500Y500/1792677603/genius-g-pad-500s-black.webp"
  },
  "08a2f2395aec": {
   "c": "mouse",
@@ -9033,9 +9033,9 @@
  },
  "0c0f78f49c97": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/055018/55018042/large_20240722110524_ebest_900_400_4mm_antiolisthitiko_mouse_pad_eb_00018_polychromo.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/055018/55018042/xlarge_20240722110524_ebest_900_400_4mm_antiolisthitiko_mouse_pad_eb_00018_polychromo.jpeg"
  },
  "0c116d9e9b1c": {
   "c": "mousepad",
@@ -9249,9 +9249,9 @@
  },
  "0c5f1329a929": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/066285/66285504/large_20260402100413_hama_urage_gaming_mouse_pad_lethality_250_hama_219802.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/066285/66285504/xlarge_20260402100413_hama_urage_gaming_mouse_pad_lethality_250_hama_219802.jpeg"
  },
  "0c5f5582efd6": {
   "c": "cooler",
@@ -9952,9 +9952,9 @@
  },
  "0d43648f54cd": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/052116/52116018/large_20260112180607_genius_31250005400_gaming_mouse_pad_320mm_me_rgb_fotismo_mayro.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/052116/52116018/xlarge_20260112180607_genius_31250005400_gaming_mouse_pad_320mm_me_rgb_fotismo_mayro.jpeg"
  },
  "0d446956efbe": {
   "c": "case",
@@ -10095,12 +10095,6 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg22/2mnakK/1Ve5AR_SX500Y667/1761742081/white-shark-wgh-2444-firecrest-asyrmato-gaming-headset-over-ear-black-wgh-2444.webp"
- },
- "0d6dcc7217c6": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg27/2mmKXF/1V6sEi_SX500Y500/1759924082/spacer-sp-pad-s-black-small.webp"
  },
  "0d7530dfda23": {
   "c": "headphones",
@@ -10517,9 +10511,9 @@
  },
  "0deb3eac5bbf": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/051422/51422166/xlarge_20240319135840_kensington_62404_mouse_pad_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/051422/51422166/large_20240319135840_kensington_62404_mouse_pad_mayro.jpeg"
  },
  "0def1ece6be9": {
   "c": "mousepad",
@@ -10587,6 +10581,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "bestprice"
+ },
+ "0e122eb83d9c": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg50/fDmzE/1Xu4MY_SX450Y338/1795104908/eizo-flexscan-ev3451x-ultrawide-ips-curved-monitor-341-3440x1440-100hz-5ms-ev3451x-bk.webp"
  },
  "0e138d063cd2": {
   "c": "mouse",
@@ -11826,9 +11826,9 @@
  },
  "0fe7975a97a3": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg50/fdVnQ/1XqdkE_SX500Y500/1794184436/roccat-raivo-midnight-black-roc-13-302.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg16/2lSUQU/1XueOj_SX500Y500/1795143431/roccat-raivo-midnight-black-roc-13-302.webp"
  },
  "0fe87a1e0bdf": {
   "c": "monitor",
@@ -12130,9 +12130,9 @@
  },
  "10490af85eea": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg38/eiIyG/1XjTkT_SX500Y500/1792677603/cooler-master-masteraccessory-mp750-rgb-large-mpa-mp750-l.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg50/4VFcK/1XuaTd_SX500Y500/1795128359/cooler-master-masteraccessory-mp750-rgb-large-mpa-mp750-l.webp"
  },
  "105194040577": {
   "c": "headphones",
@@ -12281,6 +12281,12 @@
   "c": "storage",
   "d": "2026-11-13",
   "s": "shopflix"
+ },
+ "107f3c728585": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg24/fDObK/1Xujkg_SX882Y662/1795160788/samsung-odyssey-g5-g55a-othonh-ypologisth-32-ls32hg550euxen.webp"
  },
  "10827322da4d": {
   "c": "mouse",
@@ -12536,12 +12542,6 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "snif"
- },
- "10ddc456539e": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg57/2mpW0V/1VJeI3_SX500Y500/1769165291/speedlink-silk-paradise-small.webp"
  },
  "10dddcac4e96": {
   "c": "mousepad",
@@ -13755,9 +13755,9 @@
  },
  "12bc72e73bb9": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/066285/66285491/xlarge_20260417132816_gaming_a4_bloody_bp_45w_cypher_ghost_450_x_400_x_5mm.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/066285/66285491/large_20260417132816_gaming_a4_bloody_bp_45w_cypher_ghost_450_x_400_x_5mm.jpeg"
  },
  "12c0410d8383": {
   "c": "fan",
@@ -14515,9 +14515,9 @@
  },
  "13b52fdab3ee": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg2/eiIz8/1XjTkT_SX390Y390/1792677603/hama-landscape-5473454789.webp"
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/061543/61543309/large_20250725112812_hama_landscape_mouse_pad.jpeg"
  },
  "13b5716196a5": {
   "c": "mouse",
@@ -16136,6 +16136,12 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
+ "15ee8dde7e20": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg49/2mq6cx/1VLr9U_SX434Y434/1769689802/inca-imp-022-black-rgb-xlarge.webp"
+ },
  "15ef33eedd47": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -16351,9 +16357,9 @@
  },
  "16352037947d": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/060475/60475472/xlarge_20250520095929_disney_sparkling_party_mouse_pad_mpo13.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/060475/60475472/large_20250520095929_disney_sparkling_party_mouse_pad_mpo13.jpeg"
  },
  "163992aea159": {
   "c": "cpu",
@@ -16438,9 +16444,9 @@
  },
  "16630839d70e": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg57/eiIyZ/1W9FfL_SX351Y351/1775463853/logilink-id0183-black-medium.webp"
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://b.scdn.gr/images/sku_main_images/031821/31821559/xlarge_20260112173139_logilink_id0183_gaming_mouse_pad_350mm_me_rgb_fotismo_mayro.jpeg"
  },
  "1665a5f0d073": {
   "c": "monitor",
@@ -16770,9 +16776,9 @@
  },
  "16ba1742a1e7": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "shopflix",
-  "u": "https://cdn.shopflix.gr/products/SFA-200096056/images/530/1762244229_homelutions_5907451334430.webp"
+  "u": "https://cdn.shopflix.gr/products/SFA-200455174/images/530/1769526812_5907451334447.webp"
  },
  "16bc1a58780c": {
   "c": "mousepad",
@@ -17944,6 +17950,12 @@
   "d": "2026-11-12",
   "s": "bestprice"
  },
+ "185697a865f5": {
+  "c": "storage",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203537249/images/530/00003273120827_sf_203537249_3273120827.webp"
+ },
  "1856bbad0523": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -18907,9 +18919,9 @@
  },
  "1987148ba9c6": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/070593/70593847/large_20261111111208_trust_gaming_mouse_pad_large_550mm_mayro_26294.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/070593/70593847/xlarge_20261111111208_trust_gaming_mouse_pad_large_550mm_mayro_26294.jpeg"
  },
  "1987cc773d1f": {
   "c": "storage",
@@ -18963,6 +18975,12 @@
   "c": "cooler",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "199238d419fb": {
+  "c": "storage",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203537241/images/530/00007418873722_sf_203537241_7418873722.webp"
  },
  "1992c7b2a703": {
   "c": "cpu",
@@ -19838,6 +19856,12 @@
   "c": "cooler",
   "d": "2026-10-07",
   "s": "skroutz"
+ },
+ "1aacc8eb2230": {
+  "c": "fan",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg10/2mr3Ki/1W3ceN_SX448Y448/1773922349/jonsbo-za-360-reverse-case-fan-120mm-argb-me-syndesh-3-pin-4-pin-pwm-3tmx-white.webp"
  },
  "1aad67a00a1a": {
   "c": "monitor",
@@ -22044,9 +22068,9 @@
  },
  "1db5dd000f4c": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg58/eiXqO/1XqM50_SX263Y263/1794318006/hama-business-black-xl.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg25/aatyp/1TL0MR_SX304Y304/1740035757/hama-business-blue-xl.webp"
  },
  "1dba686b5442": {
   "c": "monitor",
@@ -22248,6 +22272,12 @@
   "c": "mobo",
   "d": "2026-10-01",
   "s": "shopflix"
+ },
+ "1e012e6fd6b1": {
+  "c": "fan",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203489738/images/530/00004813793081_sf_203489738_4813793081.webp"
  },
  "1e01d9098b16": {
   "c": "storage",
@@ -23072,9 +23102,9 @@
  },
  "1f032b577a14": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/025298/25298190/large_20211119110218_sharkoon_1337_v2_gaming_mouse_pad_280mm_mayro.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/025298/25298190/xlarge_20211119110218_sharkoon_1337_v2_gaming_mouse_pad_280mm_mayro.jpeg"
  },
  "1f036e5d2a61": {
   "c": "headphones",
@@ -25057,9 +25087,9 @@
  },
  "2186dbccbd81": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/060140/60140987/xlarge_20250428104458_urage_lethality_460_mouse_pad_black.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/060140/60140987/large_20250428104458_urage_lethality_460_mouse_pad_black.jpeg"
  },
  "2189a3897ba9": {
   "c": "mouse",
@@ -25565,9 +25595,9 @@
  },
  "224a5c09eeb5": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/060116/60116965/xlarge_20250425102101_floston_topographic_mousepad_black.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/060116/60116965/large_20250425102101_floston_topographic_mousepad_black.jpeg"
  },
  "224c78e8d19f": {
   "c": "mobo",
@@ -27442,6 +27472,12 @@
   "d": "2026-10-20",
   "s": "skroutz"
  },
+ "24ed8576edeb": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-105155072/images/530/1742572752_8681949011672.webp"
+ },
  "24ef325c99ee": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -27710,9 +27746,9 @@
  },
  "2539146d8bcf": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/065086/65086502/large_20260121113741_dp6259_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/065086/65086502/xlarge_20260121113741_dp6259_mouse_pad.jpeg"
  },
  "253a8c9a5899": {
   "c": "headphones",
@@ -28010,9 +28046,9 @@
  },
  "258cf34315f5": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg17/4R1Tz/1XrNmx_SX487Y487/1794561265/vivanco-holiday-33871.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg63/9qYKH/1Xumrp_SX490Y490/1795172763/vivanco-holiday-33871.webp"
  },
  "2590ae090055": {
   "c": "fan",
@@ -28396,9 +28432,9 @@
  },
  "261bdb6e9e4b": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/067515/67515672/xlarge_20260527121521_white_shark_luminos_l_mouse_pad_black.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/067515/67515672/large_20260527121521_white_shark_luminos_l_mouse_pad_black.jpeg"
  },
  "261d0aa3478d": {
   "c": "storage",
@@ -29598,9 +29634,9 @@
  },
  "27b8efddfe07": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/050837/50837028/large_20240228122530_csl_titanwolf_global_wolf_gaming_mouse_pad_xxl_900mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/050837/50837028/xlarge_20240228122530_csl_titanwolf_global_wolf_gaming_mouse_pad_xxl_900mm.jpeg"
  },
  "27b99b0a606d": {
   "c": "headphones",
@@ -31209,9 +31245,9 @@
  },
  "29a8a0151313": {
   "c": "mousepad",
-  "d": "2026-11-16",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/042629/42629357/xlarge_20230526130752_glorious_pc_gaming_race_gama_778_gaming_mouse_pad_leyko.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/042629/42629357/large_20230526130752_glorious_pc_gaming_race_gama_778_gaming_mouse_pad_leyko.jpeg"
  },
  "29a97002e989": {
   "c": "headphones",
@@ -32064,6 +32100,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg48/2mpNLO/1VHOLL_SX500Y667/1768827249/onikuma-gt839-asyrmato-gaming-headset-over-ear-black-gt839.webp"
+ },
+ "2aca71bc46db": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg19/fhOQb/1Xbt9B_SX900Y675/1790670335/acer-nitro-vg270p6bip-ips-hdr-gaming-monitor-27-1920x1080-fhd-144hz-4ms-umhv0ee605.webp"
  },
  "2acb18e6771d": {
   "c": "mousepad",
@@ -33016,9 +33058,9 @@
  },
  "2bfb3594f3ac": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/053209/53209135/xlarge_20240502141449_manhattan_mouse_pad_me_stirigma_karpou_mayro.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/053209/53209135/large_20240502141449_manhattan_mouse_pad_me_stirigma_karpou_mayro.jpeg"
  },
  "2bfbb1253a1b": {
   "c": "headphones",
@@ -33864,6 +33906,12 @@
   "d": "2026-11-14",
   "s": "skroutz",
   "u": "https://b.scdn.gr/images/sku_main_images/065355/65355407/xlarge_20260210142437_meze_audio_strada_ensyrmata_over_ear_akoustika_prasina.jpeg"
+ },
+ "2cfb80b4f7c3": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg61/2mbOmp/1Te8lL_SX500Y667/1732200005/media-tech-turdus-pro-mt3603-gaming-headset-on-ear-black-turduspromt3603.webp"
  },
  "2cfd7c4e3007": {
   "c": "headphones",
@@ -34782,9 +34830,9 @@
  },
  "2e325dd65259": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/067575/67575969/xlarge_20260602101219_gaming_steelseries_qck_heavy_l_white_steel_pad_63480.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/067575/67575969/large_20260602101219_gaming_steelseries_qck_heavy_l_white_steel_pad_63480.jpeg"
  },
  "2e385b8ca135": {
   "c": "mouse",
@@ -34867,9 +34915,9 @@
  },
  "2e503301d458": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/050566/50566828/large_20240219091401_derform_df_poal_91133_mouse_pad_large_495mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/050566/50566828/xlarge_20240219091401_derform_df_poal_91133_mouse_pad_large_495mm.jpeg"
  },
  "2e50854c9f3f": {
   "c": "monitor",
@@ -35203,9 +35251,9 @@
  },
  "2eb433dc6e1e": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg54/eiIyW/1XjTkT_SX500Y500/1792677603/logilink-id0155-rgb-led-id0155.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg36/fhQvG/1XuaTd_SX500Y500/1795128359/logilink-id0155-rgb-led-id0155.webp"
  },
  "2eb8a9d1a140": {
   "c": "fan",
@@ -35739,9 +35787,9 @@
  },
  "2f745ca20b6c": {
   "c": "mousepad",
-  "d": "2026-11-16",
-  "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/050219/50219693/xlarge_20240202124711_gearlab_glb215000_mouse_pad_250mm.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203351665/images/530/00006562290186_sf_203351665_6562290186.webp"
  },
  "2f748dbdecf9": {
   "c": "ram",
@@ -36197,9 +36245,9 @@
  },
  "301a892413d5": {
   "c": "mousepad",
-  "d": "2026-11-16",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/036935/36935965/xlarge_20220630131030_reekin_gam_002g_gaming_mouse_pad_large_400mm_design_16.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/036935/36935965/large_20220630131030_reekin_gam_002g_gaming_mouse_pad_large_400mm_design_16.jpeg"
  },
  "301dcbd0be67": {
   "c": "monitor",
@@ -36282,9 +36330,9 @@
  },
  "30317c983da5": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/058466/58466792/large_20260225104917_zeroground_mp_1600g_okada_supreme_v2_0_gaming_mouse_pad_27x32cm_mayro.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/058466/58466792/xlarge_20260225104917_zeroground_mp_1600g_okada_supreme_v2_0_gaming_mouse_pad_27x32cm_mayro.jpeg"
  },
  "3032556c3d52": {
   "c": "headphones",
@@ -37575,12 +37623,6 @@
   "d": "2026-11-14",
   "s": "shopflix"
  },
- "31e0dc7470d6": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg29/2mtuuF/1WWioq_SX356Y356/1787054050/hama-urage-lethality-460-black-xl-hama-186080.webp"
- },
  "31e449a710b5": {
   "c": "storage",
   "d": "2026-10-03",
@@ -37804,6 +37846,12 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "322bcb8fb9ed": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg45/2m9ROB/1SkeJX_SX563Y422/1718878201/asus-rog-strix-xg27acs-w-ips-hdr-gaming-monitor-27-2560x1440-qhd-180hz-1ms.webp"
  },
  "322cbadcf82b": {
   "c": "cooler",
@@ -38263,9 +38311,9 @@
  },
  "32d57e99ac11": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg0/2mbgkw/1SYRBv_SX500Y500/1728560713/gembird-gaming-pro-black-medium-mp-s-gamepro-m.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg46/b8J6m/1Xp0No_SX337Y337/1793897918/gembird-gaming-pro-black-medium-mp-gamepro-m.webp"
  },
  "32d88d0f999e": {
   "c": "headphones",
@@ -41187,6 +41235,12 @@
   "c": "fan",
   "d": "2026-10-09",
   "s": "shopflix"
+ },
+ "36867cea4f5c": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg5/fDQsR/1XunhQ_SX854Y641/1795176014/samsung-essential-g3-g35h-va-curved-monitor-32-1920x1080-fhd-144hz-1ms-ls32hg350euxen.webp"
  },
  "3686f36bee04": {
   "c": "cooler",
@@ -45040,9 +45094,9 @@
  },
  "3b7e533f67ed": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/065097/65097455/large_20260121145836_dp6266_mouse_pad.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/065097/65097455/xlarge_20260121145836_dp6266_mouse_pad.jpeg"
  },
  "3b7f9bb97391": {
   "c": "case",
@@ -45146,7 +45200,7 @@
   "c": "mousepad",
   "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/069649/69649721/xlarge_20260930102416_logilink_mouse_pad_220mm_mple_id0223.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/069649/69649721/large_20260930102416_logilink_mouse_pad_220mm_mple_id0223.jpeg"
  },
  "3ba945bb069c": {
   "c": "mousepad",
@@ -46001,9 +46055,9 @@
  },
  "3cd14d05e637": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/052930/52930873/xlarge_20240425171158_marvo_p1_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/052930/52930873/large_20240425171158_marvo_p1_mouse_pad_xxl_800mm.jpeg"
  },
  "3cd3012cb8d7": {
   "c": "mousepad",
@@ -46601,6 +46655,12 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
+ "3d9140e8f507": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/2mqiFn/1VOkB3_SX489Y367/1770379561/ag-neovo-dr-2202-dental-ips-forhto-monitor-215-1920x1080-fhd-75hz-5ms.webp"
+ },
  "3d95980d08d6": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -46640,9 +46700,9 @@
  },
  "3d9f9f184a34": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/067309/67309135/xlarge_20260514124444_baracuda_pad_lobster_mouse_pad_gaming_multicolor_300_x_250_x_2_mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/067309/67309135/large_20260514124444_baracuda_pad_lobster_mouse_pad_gaming_multicolor_300_x_250_x_2_mm.jpeg"
  },
  "3da18ce36176": {
   "c": "mobo",
@@ -46993,9 +47053,9 @@
  },
  "3e180411da8f": {
   "c": "mousepad",
-  "d": "2026-11-19",
-  "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/069202/69202416/large_20260903105239_be_quiet_mousepad_bz010_xl_black.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203515440/images/530/00002454049057_sf_203515440_2454049057.webp"
  },
  "3e1be5d337db": {
   "c": "mobo",
@@ -47184,6 +47244,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "3e5c18bf8f26": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg2/2msh34/1Wv8uD_SX500Y500/1780581139/krux-space-black-medium-krx0018.webp"
+ },
  "3e5e111aed0f": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -47261,9 +47327,9 @@
  },
  "3e7a5a4c4aa6": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/066285/66285509/xlarge_20260402100421_hama_business_xl_70_x_30_cm_gray_hama_126878.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/066285/66285509/large_20260402100421_hama_business_xl_70_x_30_cm_gray_hama_126878.jpeg"
  },
  "3e7cdfe88177": {
   "c": "fan",
@@ -47568,12 +47634,6 @@
   "c": "psu",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "3ed3545c4f7d": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg30/2md5jU/1TSI6A_SX500Y500/1741870568/genius-gx-pad-260s-rgb-black.webp"
  },
  "3ed410f872a9": {
   "c": "headphones",
@@ -48925,9 +48985,9 @@
  },
  "407e8a786ff8": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/064487/64487615/xlarge_20251203105518_disney_feeding_pad_frozen_ii_olaf.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/064487/64487615/large_20251203105518_disney_feeding_pad_frozen_ii_olaf.jpeg"
  },
  "40806a6d9ba6": {
   "c": "mousepad",
@@ -49156,9 +49216,9 @@
  },
  "40d515a8f27e": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/063762/63762025/xlarge_20260112184702_grupo_erik_mgge092_gaming_mouse_pad_350mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/063762/63762025/large_20260112184702_grupo_erik_mgge092_gaming_mouse_pad_350mm.jpeg"
  },
  "40d5269c83e4": {
   "c": "headphones",
@@ -49193,9 +49253,9 @@
  },
  "40e177e4d1dc": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/067414/67414913/large_20260520122840_bagcity_1006_04_mouse_pad_kafe.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/067414/67414913/xlarge_20260520122840_bagcity_1006_04_mouse_pad_kafe.jpeg"
  },
  "40e1f8b0c662": {
   "c": "cpu",
@@ -49509,12 +49569,6 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
- "415c90866f77": {
-  "c": "mousepad",
-  "d": "2026-11-15",
-  "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/010839/10839552/xlarge_20170117123540_genius_gx_control_p100_rough_surface.jpeg"
- },
  "415d076b009c": {
   "c": "mobo",
   "d": "2026-10-01",
@@ -49767,6 +49821,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "41ab2f51f49a": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/015869/15869013/xlarge_20180920102529_turtle_beach_atlas_three.jpeg"
+ },
  "41ab3f3a37e6": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -49955,9 +50015,9 @@
  },
  "41e4abf9ebd7": {
   "c": "mousepad",
-  "d": "2026-11-15",
-  "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/061674/61674929/xlarge_20250715104435_borofone_mouse_pad_bg8_flying_eagle_black.jpeg"
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg3/fAJmH/1XuhFh_SX500Y500/1795154403/borofone-bg8-flying-eagle-black-6941991102974.webp"
  },
  "41e562ffd239": {
   "c": "cooler",
@@ -51019,9 +51079,9 @@
  },
  "432502e5da15": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/069852/69852271/large_20261009115609_arctic_monkeys_do_i_wanna_k_mouse_pad_230mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/069852/69852271/xlarge_20261009115609_arctic_monkeys_do_i_wanna_k_mouse_pad_230mm.jpeg"
  },
  "43263d861bf7": {
   "c": "mobo",
@@ -54317,9 +54377,9 @@
  },
  "476faf79c4d8": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/058321/58321961/large_20250117095335_hator_tonn_esport_l_mousepad.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/058321/58321961/xlarge_20250117095335_hator_tonn_esport_l_mousepad.jpeg"
  },
  "47701289de43": {
   "c": "mobo",
@@ -55590,9 +55650,9 @@
  },
  "490af5c72c9e": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/065097/65097457/large_20260121145837_dp6280_mouse_pad.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/065097/65097457/xlarge_20260121145837_dp6280_mouse_pad.jpeg"
  },
  "490e04751bad": {
   "c": "monitor",
@@ -56133,9 +56193,9 @@
  },
  "49c075776e76": {
   "c": "mousepad",
-  "d": "2026-11-17",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/058602/58602066/xlarge_20260504163554_t_nb_tasty_essential_mouse_pad.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/058602/58602066/large_20260504163554_t_nb_tasty_essential_mouse_pad.jpeg"
  },
  "49c209490cc6": {
   "c": "case",
@@ -56603,9 +56663,9 @@
  },
  "4a3ed000e4d9": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/057534/57534374/large_20241118164328_subsonic_gaming_mouse_pad_xxl_900mm_lord_of_the_rings.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/057534/57534374/xlarge_20241118164328_subsonic_gaming_mouse_pad_xxl_900mm_lord_of_the_rings.jpeg"
  },
  "4a3fb3ef8423": {
   "c": "monitor",
@@ -56807,6 +56867,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg33/2lV3t7/1QXN8K_SX500Y500/1698752554/ngs-artica-runner-akoystika-bluetooth-earbud-anthektika-sto-nero-green.webp"
+ },
+ "4a8345f4e688": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg33/2mlYtP/1V10GJ_SX500Y500/1758624961/verk-group-mousepad-gaming-xxxl-5907451341803.webp"
  },
  "4a86ad729f9f": {
   "c": "mouse",
@@ -58142,6 +58208,12 @@
   "d": "2026-10-03",
   "s": "bestprice"
  },
+ "4c6b46a4c7d8": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203533062/images/530/00005232098636_sf_203533062_5232098636.webp"
+ },
  "4c6b5570ac43": {
   "c": "case",
   "d": "2026-11-05",
@@ -58322,9 +58394,9 @@
  },
  "4ca636e62acd": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg48/7X15u/1XsjXR_SX500Y500/1794686587/esperanza-classic-maxi.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg62/dINIy/1XubX4_SX500Y500/1795132442/esperanza-classic-maxi.webp"
  },
  "4ca6cea6adc9": {
   "c": "headphones",
@@ -58680,9 +58752,9 @@
  },
  "4d113c31ba59": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/012828/12828412/xlarge_20200316200415_asus_rog_strix_edge.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/012828/12828412/large_20200316200415_asus_rog_strix_edge.jpeg"
  },
  "4d127833cf3b": {
   "c": "headphones",
@@ -58735,6 +58807,12 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "4d20617fc7f2": {
+  "c": "fan",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg55/2mpPQX/1VIuac_SX500Y500/1768986368/jonsbo-za-240-reverse-case-fan-120mm-argb-me-syndesh-3-pin-4-pin-pwm-2tmx-black-za-240br.webp"
  },
  "4d20ba84503a": {
   "c": "headphones",
@@ -59607,6 +59685,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "4e3811698cf4": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg51/2mwCiv/1Xul4p_SX500Y667/1795167493/sandberg-126-56-on-ear-akoystiko-me-mikrofwno-usb-c.webp"
+ },
  "4e3d768a02ab": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -60170,9 +60254,9 @@
  },
  "4ee7e5162797": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/053209/53209122/xlarge_20240809140303_genius_31250019400_mouse_pad_mayro.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/053209/53209122/large_20240809140303_genius_31250019400_mouse_pad_mayro.jpeg"
  },
  "4eea67677ed2": {
   "c": "monitor",
@@ -60379,9 +60463,9 @@
  },
  "4f37980b888c": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/043545/43545942/xlarge_20260112175246_lorgar_lrg_gmp133_gaming_mouse_pad_360mm_mov.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/043545/43545942/large_20260112175246_lorgar_lrg_gmp133_gaming_mouse_pad_360mm_mov.jpeg"
  },
  "4f39e951388e": {
   "c": "mousepad",
@@ -60879,12 +60963,6 @@
   "c": "storage",
   "d": "2026-10-03",
   "s": "bestprice"
- },
- "4fea53db04e3": {
-  "c": "mousepad",
-  "d": "2026-11-18",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg46/fy4hw/1Xtu7F_SX500Y500/1794963963/razer-gigantus-v2-pro-balance-mouse-pad-black.webp"
  },
  "4feabe7b1488": {
   "c": "headphones",
@@ -62091,6 +62169,12 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg25/2mnc01/1VetFe_SX500Y667/1761834608/skullcandy-hesh-540-ensyrmata-asyrmata-bluetooth-akoystika-over-ear-me-noise-cancelling-leyka.webp"
  },
+ "517b1a64522d": {
+  "c": "mouse",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/039513/39513359/xlarge_20221121101654_razer_naga_v2_pro_asyrmato_rgb_gaming_pontiki_30000_dpi_mayro.jpeg"
+ },
  "517e0df56ae7": {
   "c": "fan",
   "d": "2026-11-11",
@@ -62551,9 +62635,9 @@
  },
  "5224f6e6bcc0": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/050528/50528494/large_20240215155427_eureka_ergonomic_cod_mp06_gaming_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/050528/50528494/xlarge_20240215155427_eureka_ergonomic_cod_mp06_gaming_mouse_pad_xxl_800mm.jpeg"
  },
  "52267f8e11d7": {
   "c": "headphones",
@@ -62808,9 +62892,9 @@
  },
  "527942fd9bbb": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg29/eXwNT/1WNzkv_SX500Y500/1784974203/cougar-neon-rgb-black-medium-cg3mneomat0001.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg8/9RFWM/1Xum77_SX500Y500/1795171505/cougar-neon-rgb-black-medium-cg3mneomat0001.webp"
  },
  "527a236bef2c": {
   "c": "monitor",
@@ -64713,9 +64797,9 @@
  },
  "54fbad60141d": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg26/dIS0i/1XtVjw_SX500Y500/1795068486/ibox-mp002-green-small.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg26/dIS0i/1XubX4_SX500Y500/1795132442/ibox-mp002-green-small.webp"
  },
  "54fbe0aa5420": {
   "c": "mouse",
@@ -65279,6 +65363,12 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
+ "55acc442d4f6": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg16/fCLeM/1Xu4H5_SX747Y560/1795104543/asus-be27acgnk-othonh-ypologisth-27-ips-wqhd-120hz.webp"
+ },
  "55aebb62d4f9": {
   "c": "ram",
   "d": "2026-10-16",
@@ -65379,9 +65469,9 @@
  },
  "55ce4799343a": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg63/aFTNJ/1XsbD1_SX490Y490/1794654543/asus-rog-sheath-black-xxl-900mm-90mp00k1-b0uc00.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg43/a5CMX/1Xu4WI_SX490Y490/1795105512/asus-rog-sheath-black-xxl-900mm-90mp00k1-b0uc00.webp"
  },
  "55ce5d7d599f": {
   "c": "case",
@@ -65611,9 +65701,9 @@
  },
  "560ade2cece7": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/049297/49297176/xlarge_20260112180201_delphi_17511_gaming_mouse_pad_320mm_gri.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/049297/49297176/large_20260112180201_delphi_17511_gaming_mouse_pad_320mm_gri.jpeg"
  },
  "560e68d2690c": {
   "c": "headphones",
@@ -67073,9 +67163,9 @@
  },
  "57e4f7d50441": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/067979/67979901/large_20260622121322_asus_90xb0ak0_bmp000_mouse_pad.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/067979/67979901/xlarge_20260622121322_asus_90xb0ak0_bmp000_mouse_pad.jpeg"
  },
  "57e7fed1f9b2": {
   "c": "headphones",
@@ -69007,9 +69097,9 @@
  },
  "5a86a8d0f515": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg60/2mbgks/1SYRBv_SX203Y203/1728560713/hama-urage-lethality-400-illuminated-black-xxl-186047.webp"
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://b.scdn.gr/images/sku_main_images/034659/34659041/xlarge_20220314123848_hama_urage_lethality_400_illuminated_gaming_mouse_pad_xxl_900mm_me_rgb_fotismo_mayro.jpeg"
  },
  "5a8911eac231": {
   "c": "mouse",
@@ -72069,9 +72159,9 @@
  },
  "5e9fe19a3b03": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/017376/17376037/xlarge_20200413175340_redragon_taurus.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/017376/17376037/large_20200413175340_redragon_taurus.jpeg"
  },
  "5ea0c129e28d": {
   "c": "headphones",
@@ -72723,6 +72813,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
+ },
+ "5f75a1d08731": {
+  "c": "case",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/066638/66638527/large_20260416151356_jonsbo_x400_pro_gaming_midi_tower_kouti_ypologisti_me_plaino_parathyro_gri.jpeg"
  },
  "5f75c2a7d706": {
   "c": "cooler",
@@ -76267,9 +76363,9 @@
  },
  "63e49e7cc55a": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/053209/53209211/xlarge_20240809140303_genesis_npg_1836_mouse_pad_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/053209/53209211/large_20240809140303_genesis_npg_1836_mouse_pad_mayro.jpeg"
  },
  "63e525db3bc2": {
   "c": "mouse",
@@ -76294,9 +76390,9 @@
  },
  "63f06d6a88eb": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/036525/36525417/large_20260112174031_hama_urage_cyberpad_gaming_mouse_pad_343mm_mayro.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/036525/36525417/xlarge_20260112174031_hama_urage_cyberpad_gaming_mouse_pad_343mm_mayro.jpeg"
  },
  "63f1d80f8bb3": {
   "c": "mousepad",
@@ -76482,9 +76578,9 @@
  },
  "641ff1fecff3": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/064384/64384804/large_20251125111913_i_total_137255211_mouse_pad_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/064384/64384804/xlarge_20251125111913_i_total_137255211_mouse_pad_mayro.jpeg"
  },
  "642062cacbcc": {
   "c": "headphones",
@@ -77998,9 +78094,9 @@
  },
  "6615e27ae88b": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/054627/54627406/large_20240625151858_hama_urage_lethality_gaming_mouse_pad_large_450mm_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/054627/54627406/xlarge_20240625151858_hama_urage_lethality_gaming_mouse_pad_large_450mm_mayro.jpeg"
  },
  "6619ce7b3748": {
   "c": "mousepad",
@@ -78325,6 +78421,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "bestprice"
+ },
+ "66851f516b2a": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/032938/32938579/xlarge_20211210151952_moveteck_c_986_in_ear_bluetooth_handsfree_mayro.jpeg"
  },
  "6688119e9e12": {
   "c": "monitor",
@@ -78803,6 +78905,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg40/dDi2c/1XohGY_SX485Y485/1793724540/sbs-spike-akoystika-bluetooth-in-ear-white.webp"
+ },
+ "671da2c32aa3": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg42/2muT2y/1XgWRa_SX427Y427/1791976152/rampage-vision-grey-large-vision-gray.webp"
  },
  "67204d477899": {
   "c": "headphones",
@@ -79823,9 +79931,9 @@
  },
  "688493da973e": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/043545/43545938/xlarge_20230627162316_lorgar_lrg_gmp135_mouse_pad_large_500mm_mov.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/043545/43545938/large_20230627162316_lorgar_lrg_gmp135_mouse_pad_large_500mm_mov.jpeg"
  },
  "6885ba1ff5af": {
   "c": "mousepad",
@@ -80818,9 +80926,9 @@
  },
  "69d243c10496": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/014549/14549839/xlarge_20180404133921_speedlink_silk_mousepad_muscle.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/014549/14549839/large_20180404133921_speedlink_silk_mousepad_muscle.jpeg"
  },
  "69d29b4e1623": {
   "c": "headphones",
@@ -81057,6 +81165,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "bestprice"
+ },
+ "6a2fc25165df": {
+  "c": "storage",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203520534/images/530/00005653007432_sf_203520534_5653007432.webp"
  },
  "6a2fc6ec1293": {
   "c": "monitor",
@@ -82401,6 +82515,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "6bc8b4f9d060": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg60/f9c9S/1Xu7Yj_SX500Y500/1795117143/white-shark-skywalker-gmp-1699-medium.webp"
+ },
  "6bc94b0cc83f": {
   "c": "cooler",
   "d": "2026-10-01",
@@ -83333,9 +83453,9 @@
  },
  "6cf63eaf4dcd": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/060475/60475448/xlarge_20250520095843_roline_mouse_pad_18_01_2044_black_350x260x3mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/060475/60475448/large_20250520095843_roline_mouse_pad_18_01_2044_black_350x260x3mm.jpeg"
  },
  "6cf7c893541a": {
   "c": "case",
@@ -84101,6 +84221,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
+ },
+ "6e0353edb6d8": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg0/dxcIw/1VgErJ_SX445Y594/1762352711/a4tech-bloody-g200s-black-red-a4tslu46783.webp"
  },
  "6e076f9a8be2": {
   "c": "headphones",
@@ -86382,9 +86508,9 @@
  },
  "70e630f62356": {
   "c": "mousepad",
-  "d": "2026-11-17",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/050405/50405058/large_20240209162734_pad_mouse_pad_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/050405/50405058/xlarge_20240209162734_pad_mouse_pad_mayro.jpeg"
  },
  "70e702033fe5": {
   "c": "mousepad",
@@ -88317,9 +88443,9 @@
  },
  "73359cb0c4ef": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/056510/56510397/large_20240927134257_hoco_gm22_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/056510/56510397/xlarge_20240927134257_hoco_gm22_mouse_pad_xxl_800mm.jpeg"
  },
  "733798dc5aec": {
   "c": "headphones",
@@ -88582,9 +88708,9 @@
  },
  "73954fcaf06c": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/066285/66285506/large_20260402100414_fnatic_focus_xxl_jw_mouse_pad_1402004_1002.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/066285/66285506/xlarge_20260402100414_fnatic_focus_xxl_jw_mouse_pad_1402004_1002.jpeg"
  },
  "7397eb4403e1": {
   "c": "mobo",
@@ -90043,9 +90169,9 @@
  },
  "758d7805c9c7": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/064542/64542749/large_20251208101000_mouse_pad_itotal_3d_21x25cm_orange_cat_xl2552l.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/064542/64542749/xlarge_20251208101000_mouse_pad_itotal_3d_21x25cm_orange_cat_xl2552l.jpeg"
  },
  "75903ce2af4a": {
   "c": "mouse",
@@ -90227,9 +90353,9 @@
  },
  "75d7510c93bb": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/016754/16754063/large_20210225153352_yenkee_ambush.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/016754/16754063/xlarge_20210225153352_yenkee_ambush.jpeg"
  },
  "75d976cc4b74": {
   "c": "fan",
@@ -90961,9 +91087,9 @@
  },
  "76c3f804b2d2": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/069481/69481676/large_20260921113457_powerton_mouse_pad_mple_wpepc1_nb.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/069481/69481676/xlarge_20260921113457_powerton_mouse_pad_mple_wpepc1_nb.jpeg"
  },
  "76c4104928a8": {
   "c": "monitor",
@@ -91775,9 +91901,9 @@
  },
  "77f3a8aa197c": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/048187/48187198/xlarge_20240809140304_paladone_man_desk_mat_mouse_pad_xxl_800mm_spider_man.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/048187/48187198/large_20240809140304_paladone_man_desk_mat_mouse_pad_xxl_800mm_spider_man.jpeg"
  },
  "77f4763c0eb2": {
   "c": "cooler",
@@ -92372,9 +92498,9 @@
  },
  "78a696ff3455": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/007646/7646541/large_20230127160202_disney_mousepad_h_s_m_mp001.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/007646/7646541/xlarge_20230127160202_disney_mousepad_h_s_m_mp001.jpeg"
  },
  "78aa61142530": {
   "c": "case",
@@ -93886,9 +94012,9 @@
  },
  "7ae36f9d5c8b": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/069357/69357004/large_20260914093951_lexip_x_warner_green_lantern_xxl_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/069357/69357004/xlarge_20260914093951_lexip_x_warner_green_lantern_xxl_mouse_pad.jpeg"
  },
  "7ae3f169edfa": {
   "c": "headphones",
@@ -93993,9 +94119,9 @@
  },
  "7b108019f5d9": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg45/dIWm1/1XtVjw_SX500Y500/1795068486/gembird-cloth-black-small-mp-s-bk.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg45/dIWm1/1Xucev_SX500Y500/1795133523/gembird-cloth-black-small-mp-s-bk.webp"
  },
  "7b10f36da606": {
   "c": "ram",
@@ -94681,9 +94807,9 @@
  },
  "7bffb7290c45": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/051937/51937331/large_20240402151735_ango_mouse_pad_xl_780mm_space.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/051937/51937331/xlarge_20240402151735_ango_mouse_pad_xl_780mm_space.jpeg"
  },
  "7c005d26b536": {
   "c": "headphones",
@@ -97807,6 +97933,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-19583816/images/530/infotechnology_5291485007676.jpeg"
  },
+ "80021762a509": {
+  "c": "cooler",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg12/2mwA6E/1XtZZ2_SX500Y375/1795086436/corsair-icue-link-titan-ii-ultra-lx-360-white-ydropsyksh-cpu-120mm-argb-gia-socket-1700-1851-am4-am5-cw-9061058-ww.webp"
+ },
  "800247efdf19": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -97852,9 +97984,9 @@
  },
  "80112c3e516d": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/032460/32460586/large_20220301135224_paladone_batman_logo_mouse_pad_xxl_800mm_mayro.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/032460/32460586/xlarge_20220301135224_paladone_batman_logo_mouse_pad_xxl_800mm_mayro.jpeg"
  },
  "8014a6c977f8": {
   "c": "headphones",
@@ -98119,6 +98251,12 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
+ "805123c472f2": {
+  "c": "mouse",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg44/fD5vu/1Xu5xk_SX500Y667/1795107782/hp-3b4q5aaac3-asyrmato-pontiki-black.webp"
+ },
  "80520fde75bc": {
   "c": "cooler",
   "d": "2026-10-01",
@@ -98381,9 +98519,9 @@
  },
  "80ab560618f8": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/063940/63940989/large_20251031105655_fantech_mp80_gaming_mouse_pad_xl_640mm_mayro.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/063940/63940989/xlarge_20251031105655_fantech_mp80_gaming_mouse_pad_xl_640mm_mayro.jpeg"
  },
  "80ad11fecfa2": {
   "c": "mousepad",
@@ -98504,9 +98642,9 @@
  },
  "80c906a656fa": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/057791/57791830/large_20260112181941_grupo_erik_mgge086_gaming_mouse_pad_350mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/057791/57791830/xlarge_20260112181941_grupo_erik_mgge086_gaming_mouse_pad_350mm.jpeg"
  },
  "80ca54112d42": {
   "c": "mouse",
@@ -98742,9 +98880,9 @@
  },
  "8119a1b06081": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg48/aziDK/1X0ZpO_SX490Y490/1788172740/omega-gel-dark-blue-small-42126.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/cGCJL/1XulAk_SX500Y500/1795169472/omega-gel-black-small-42125.webp"
  },
  "811a7f2ec926": {
   "c": "cooler",
@@ -101472,12 +101610,6 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
- "84a250b33756": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg16/2mmTao/1V8C6t_SX266Y266/1760437081/spacer-sp-pad-game-rgb-pict-black-xxl.webp"
- },
  "84a2f2834c3b": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -102406,9 +102538,9 @@
  },
  "85c3816848e5": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/064355/64355555/xlarge_20251121132201_pyramid_international_middle_earth_map_lord_of_the_rings_gaming_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/064355/64355555/large_20251121132201_pyramid_international_middle_earth_map_lord_of_the_rings_gaming_mouse_pad_xxl_800mm.jpeg"
  },
  "85c39773cc61": {
   "c": "monitor",
@@ -103163,9 +103295,9 @@
  },
  "86c6f101ab3e": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/050312/50312890/xlarge_20240207131245_ert_group_disney_100th_anniversary_lilo_stitch_mouse_pad_220mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/050312/50312890/large_20240207131245_ert_group_disney_100th_anniversary_lilo_stitch_mouse_pad_220mm.jpeg"
  },
  "86c8b9414505": {
   "c": "mouse",
@@ -103732,9 +103864,9 @@
  },
  "878cad8a7684": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/069673/69673111/xlarge_20261001105511_optima_mouse_pad_15734870.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/069673/69673111/large_20261001105511_optima_mouse_pad_15734870.jpeg"
  },
  "878e35657319": {
   "c": "headphones",
@@ -104219,9 +104351,9 @@
  },
  "88268b30ea7c": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg53/eiIyV/1XjTkT_SX500Y500/1792677603/hyperx-fury-ultra-rgb-black-medium-hx-mpfu-m.webp"
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/021811/21811763/xlarge_20260112170852_hyperx_fury_ultra_rgb_gaming_mouse_pad_360mm_me_rgb_fotismo_mayro.jpeg"
  },
  "882715e515d9": {
   "c": "storage",
@@ -104775,9 +104907,9 @@
  },
  "88e9e255f3ce": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/069798/69798705/large_20261007100422_havit_hv_mp863_mouse_pad_900_x_400_x_4_mm_black.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/069798/69798705/xlarge_20261007100422_havit_hv_mp863_mouse_pad_900_x_400_x_4_mm_black.jpeg"
  },
  "88ecd46b5c36": {
   "c": "case",
@@ -105348,9 +105480,9 @@
  },
  "89af9718ece3": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/070658/70658735/large_20261116102343_hoco_gaming_mouse_pad_xl_700mm_prasino_gm863.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/070658/70658735/xlarge_20261116102343_hoco_gaming_mouse_pad_xl_700mm_prasino_gm863.jpeg"
  },
  "89b05f0637c7": {
   "c": "headphones",
@@ -105542,6 +105674,12 @@
   "c": "ram",
   "d": "2026-10-20",
   "s": "shopflix"
+ },
+ "89ee468eaaa0": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://b.scdn.gr/images/sku_main_images/048117/48117316/xlarge_20231116123913_lexibook_disney_minnie_mouse_asyrmata_ensyrmata_on_ear_paidika_akoustika_pink_blue.jpeg"
  },
  "89f5ad7607e0": {
   "c": "case",
@@ -106137,9 +106275,9 @@
  },
  "8ac01231055e": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/007630/7630142/large_20151009143636_disney_mouse_pad_toy_story_mp095.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/007630/7630142/xlarge_20151009143636_disney_mouse_pad_toy_story_mp095.jpeg"
  },
  "8ac105456a33": {
   "c": "monitor",
@@ -106380,9 +106518,9 @@
  },
  "8b09b4a4a096": {
   "c": "mousepad",
-  "d": "2026-11-16",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/062008/62008726/xlarge_20260402141732_keychron_rapper_keep_it_real_mouse_pad_gaming_multicolor_900_x_400_x_3_mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/062008/62008726/large_20260402141732_keychron_rapper_keep_it_real_mouse_pad_gaming_multicolor_900_x_400_x_3_mm.jpeg"
  },
  "8b0b142c15f3": {
   "c": "mouse",
@@ -107074,12 +107212,6 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg61/2mdTBP/1Uh1NE_SX500Y667/1747666146/speedlink-conux-gaming-headset-over-ear-black-conuxrgb.webp"
  },
- "8bd453bf5120": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg57/2mbgkp/1SYRBv_SX457Y457/1728560713/reekin-gam-002b-black-red-medium.webp"
- },
  "8bd83e908556": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -107145,9 +107277,9 @@
  },
  "8be8e68b4e3f": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/040078/40078147/large_20221220145427_hama_velvet_mouse_pad_mustard_yellow.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/040078/40078147/xlarge_20221220145427_hama_velvet_mouse_pad_mustard_yellow.jpeg"
  },
  "8bed218deb21": {
   "c": "mouse",
@@ -107166,9 +107298,9 @@
  },
  "8bfbc2687b37": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg56/2mqOcU/1VY8oX_SX500Y500/1772715963/itotal-orange-cat-small-137255212.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg19/2mp3c7/1Vozge_SX500Y500/1764239402/itotal-cat-grey-small-xl2552m.webp"
  },
  "8bfc0c403574": {
   "c": "fan",
@@ -107908,9 +108040,9 @@
  },
  "8ce9ccef68fa": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/067515/67515674/xlarge_20260527121518_mouse_pad_speedlink_silk_fortune_white.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/067515/67515674/large_20260527121518_mouse_pad_speedlink_silk_fortune_white.jpeg"
  },
  "8cea25411606": {
   "c": "headphones",
@@ -108087,6 +108219,12 @@
   "c": "fan",
   "d": "2026-11-11",
   "s": "skroutz"
+ },
+ "8d1e7b0c16a6": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://c.scdn.gr/images/sku_main_images/070760/70760911/large_20261120094259_misura_m34x3b01_ultrawide_va_curved_gaming_monitor_34_qhd_3440by1440_180hz_me_chrono_apokrisis_1ms_gtg.jpeg"
  },
  "8d2128242b27": {
   "c": "fan",
@@ -108639,9 +108777,9 @@
  },
  "8dbfe59a234b": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg19/eiIzp/1XjTkT_SX295Y295/1792677603/steelseries-qck-prism-rgb-black-medium.webp"
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/012939/12939016/xlarge_20171002145809_steelseries_qck_prism.jpeg"
  },
  "8dc1cf5ce6c1": {
   "c": "headphones",
@@ -109751,9 +109889,9 @@
  },
  "8f470312597a": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg62/eLSx0/1Xu1q6_SX500Y500/1795091958/genesis-carbon-500-world-of-warships-medium-npg-1738.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg60/dYLOQ/1XuiN1_SX500Y500/1795158727/genesis-carbon-500-world-of-warships-medium-npg-1738.webp"
  },
  "8f471eaf2056": {
   "c": "headphones",
@@ -109958,9 +110096,9 @@
  },
  "8f81f864bde5": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/036438/36438286/large_20260112174023_hama_00053011_mouse_pad_350mm_gri.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/036438/36438286/xlarge_20260112174023_hama_00053011_mouse_pad_350mm_gri.jpeg"
  },
  "8f83c5e35636": {
   "c": "headphones",
@@ -110254,6 +110392,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "bestprice"
+ },
+ "8fcf22497680": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg42/2mq6cq/1VLra1_SX500Y500/1769689809/inca-imp-016-black-small.webp"
  },
  "8fcffcafdb93": {
   "c": "case",
@@ -110882,6 +111026,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "90e01e5ca6d9": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/040530/40530749/xlarge_20230131123521_edifier_hecate_g4_s_asyrmato_over_ear_gaming_headset_me_syndesi_bluetooth_usb_roz.jpeg"
+ },
  "90e0f49d629a": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -111336,9 +111486,9 @@
  },
  "916d38770992": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/050528/50528490/large_20240215155427_eureka_ergonomic_cod_mp11_gaming_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/050528/50528490/xlarge_20240215155427_eureka_ergonomic_cod_mp11_gaming_mouse_pad_xxl_800mm.jpeg"
  },
  "916d44b8717c": {
   "c": "storage",
@@ -112292,12 +112442,6 @@
   "d": "2026-11-11",
   "s": "bestprice"
  },
- "92a887d5a04f": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg56/2mpW0U/1VJeI2_SX500Y500/1769165290/speedlink-silk-beach-small.webp"
- },
  "92aac87a2b81": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -113143,12 +113287,6 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "93d8a27b5071": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg12/ehisA/1Xlkao_SX271Y271/1793019068/thunderobot-player-p1-950-black-xxl-6932066309183.webp"
  },
  "93daf95e6920": {
   "c": "monitor",
@@ -114055,9 +114193,9 @@
  },
  "9525eb4939f9": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg63/4q8Ld/1Xsjzg_SX355Y355/1794685062/naxius-msp-20-rgb-small-black.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg63/4q8Ld/1XujOP_SX355Y355/1795162683/naxius-msp-20-rgb-small-black.webp"
  },
  "952912d10a1c": {
   "c": "mouse",
@@ -115049,9 +115187,9 @@
  },
  "965ce6c76a69": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/045725/45725412/large_20230911152549_ert_group_23uni0024_mouse_pad_220mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/045725/45725412/xlarge_20230911152549_ert_group_23uni0024_mouse_pad_220mm.jpeg"
  },
  "965d7a246853": {
   "c": "mouse",
@@ -115437,6 +115575,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg40/2mlYtW/1V10GO_SX500Y500/1758624966/fellowes-breyta-marine-blue-xl-100139317.webp"
+ },
+ "96d689189c1a": {
+  "c": "cooler",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/008140/8140898/xlarge_20160107112950_deepcool_fs_47828.jpeg"
  },
  "96d90c6ce0bf": {
   "c": "mousepad",
@@ -117000,9 +117144,9 @@
  },
  "98e908425b8a": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg59/dINIv/1XtV1F_SX500Y500/1795067379/esperanza-egp101k-black-small-74-0061.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg59/dINIv/1XubX4_SX500Y500/1795132442/esperanza-egp101k-black-small-74-0061.webp"
  },
  "98eb370ffed7": {
   "c": "storage",
@@ -118173,9 +118317,9 @@
  },
  "9a764ca7595b": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/040078/40078166/large_20221220145504_hama_velvet_mouse_pad_mayro.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/040078/40078166/xlarge_20221220145504_hama_velvet_mouse_pad_mayro.jpeg"
  },
  "9a797cdb8e7b": {
   "c": "headphones",
@@ -119909,12 +120053,6 @@
   "d": "2026-10-01",
   "s": "snif"
  },
- "9cbcb8822f9c": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg0/e7cqs/1XiLcT_SX405Y405/1792408027/kensington-gel-wrist-smoke-black.webp"
- },
  "9cbdf8a4b14f": {
   "c": "storage",
   "d": "2026-10-03",
@@ -120302,9 +120440,9 @@
  },
  "9d2d744ce920": {
   "c": "mousepad",
-  "d": "2026-11-19",
-  "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/050566/50566829/large_20240219091401_derform_df_pocf39_96879_mouse_pad_large_495mm.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203538798/images/530/00007660965636_sf_203538798_7660965636.webp"
  },
  "9d2e3d654183": {
   "c": "headphones",
@@ -121513,12 +121651,6 @@
   "d": "2026-11-12",
   "s": "bestprice"
  },
- "9ec14ad9430f": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg49/eiIyR/1W9FfL_SX385Y385/1775463853/hama-urage-rag-cyberpad-black-medium-hama-113743.webp"
- },
  "9ec2078f8090": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -121745,12 +121877,6 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
- "9f0a55352080": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg18/frYau/1Xlmuc_SX320Y320/1793027984/ducky-sou-sou-blue-xxl-dpcl21-cebb1.webp"
- },
  "9f0ec95da957": {
   "c": "mobo",
   "d": "2026-11-19",
@@ -121797,6 +121923,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "9f1f3daa6b5f": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/021691/21691465/large_20200121122759_aiaiai_tma_2_comfort_black.jpeg"
  },
  "9f234d000002": {
   "c": "cooler",
@@ -121915,9 +122047,9 @@
  },
  "9f4da83c857c": {
   "c": "mousepad",
-  "d": "2026-11-19",
-  "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/040970/40970121/large_20230324161120_havit_mp849_gaming_mouse_pad_xl_700mm_mayro.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-106977366/images/530/1758887715_6939119041144.webp"
  },
  "9f4ee38e72b6": {
   "c": "headphones",
@@ -122620,9 +122752,9 @@
  },
  "a0268f750444": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg29/e0znv/1XojjF_SX423Y423/1793730783/fellowes-9252003-black-small-s7727450.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/f8vLf/1XunBo_SX385Y385/1795177226/fellowes-9252003-black-small-s7727450.webp"
  },
  "a027535e75b9": {
   "c": "headphones",
@@ -122838,6 +122970,12 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg59/2mqsz1/1VQQIw_SX426Y568/1770979688/mipro-e20s-ensyrmata-akoystika-on-ear-mayra.webp"
  },
+ "a07a76192938": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg0/fDeIE/1Xu3PE_SX579Y434/1795101230/iiyama-prolite-xcb3492wqsnp-b1-ultrawide-ips-hdr10-curved-monitor-34-3440x1440-100hz.webp"
+ },
  "a07bd040df75": {
   "c": "storage",
   "d": "2026-10-03",
@@ -123025,9 +123163,9 @@
  },
  "a0b5bfd33b13": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg0/4q8Le/1Xq58z_SX278Y278/1794152935/naxius-msp-21-rgb-medium-black.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg0/4q8Le/1XujOP_SX278Y278/1795162683/naxius-msp-21-rgb-medium-black.webp"
  },
  "a0b6a7fa6832": {
   "c": "headphones",
@@ -123055,6 +123193,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "shopflix"
+ },
+ "a0bede453f7a": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/054627/54627409/xlarge_20240625151858_hama_pad_urage_lethality_gaming_mouse_pad_xl_600mm.jpeg"
  },
  "a0bfe1a206e3": {
   "c": "mouse",
@@ -123897,9 +124041,9 @@
  },
  "a20331ef6f02": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/067010/67010719/large_20260504164102_mouse_pad_id_cooling_mp_3526_black.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/067010/67010719/xlarge_20260504164102_mouse_pad_id_cooling_mp_3526_black.jpeg"
  },
  "a205ee88d2eb": {
   "c": "mouse",
@@ -123949,9 +124093,9 @@
  },
  "a21da6695f57": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/067322/67322045/xlarge_20260515111657_fanattik_avatar_the_last_airbender_gaming_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/067322/67322045/large_20260515111657_fanattik_avatar_the_last_airbender_gaming_mouse_pad_xxl_800mm.jpeg"
  },
  "a21dfa20edee": {
   "c": "headphones",
@@ -124635,9 +124779,9 @@
  },
  "a2e9bd3b34e7": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg8/2mqnuo/1VPMH1_SX500Y500/1770725891/endorfy-stoneflow-white-xlarge.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg9/2mqnup/1VPMH1_SX500Y500/1770725891/endorfy-stoneflow-grey-xlarge.webp"
  },
  "a2ee3b9b9346": {
   "c": "storage",
@@ -125165,6 +125309,12 @@
   "c": "ram",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "a397991179a6": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203538814/images/530/00004048557977_sf_203538814_4048557977.webp"
  },
  "a397bd75a84c": {
   "c": "headphones",
@@ -128830,9 +128980,9 @@
  },
  "a86fa29c8c8c": {
   "c": "mousepad",
-  "d": "2026-11-17",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/061024/61024976/xlarge_20250617110958_hama_00126874_mouse_pad_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/061024/61024976/large_20250617110958_hama_00126874_mouse_pad_mayro.jpeg"
  },
  "a870e4b54f8d": {
   "c": "mouse",
@@ -128981,12 +129131,6 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg57/2mmMyd/1V6PMt_SX500Y500/1760013001/dunmoon-24274-black-xxl.webp"
- },
- "a8a23b22e050": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg54/ezi7Q/1XjTkT_SX260Y260/1792677603/genesis-boron-500-rgb-black-medium-npg-1508.webp"
  },
  "a8a29a0f5241": {
   "c": "headphones",
@@ -129724,6 +129868,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
+ },
+ "a97da4781443": {
+  "c": "mouse",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg54/2mdc4m/1TVECp_SX500Y667/1742572149/trust-yvi-compact-multi-device-asyrmato-bluetooth-pontiki-black.webp"
  },
  "a97fdce8fcb3": {
   "c": "headphones",
@@ -130654,9 +130804,9 @@
  },
  "aab24feeb871": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/007654/7654410/large_20151013171436_disney_mousepad_winnie_mp006.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/007654/7654410/xlarge_20151013171436_disney_mousepad_winnie_mp006.jpeg"
  },
  "aab3b23235d0": {
   "c": "headphones",
@@ -131275,9 +131425,9 @@
  },
  "ab817337ccb2": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/069357/69357002/large_20260914093947_lexip_x_warner_wonder_woman_strips_xxl_mouse_pad.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/069357/69357002/xlarge_20260914093947_lexip_x_warner_wonder_woman_strips_xxl_mouse_pad.jpeg"
  },
  "ab831e0c3341": {
   "c": "case",
@@ -131807,9 +131957,9 @@
  },
  "ac1999c4b24e": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/067321/67321126/xlarge_20260515104900_redragon_xeon_premium_xl_p041_gaming_black.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/067321/67321126/large_20260515104900_redragon_xeon_premium_xl_p041_gaming_black.jpeg"
  },
  "ac1d3f62ac09": {
   "c": "monitor",
@@ -132312,9 +132462,9 @@
  },
  "acbd2cf97fae": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "shopflix",
-  "u": "https://cdn.shopflix.gr/products/SFA-202578937/images/530/20260821085530_sf_202578937_95704.webp"
+  "u": "https://cdn.shopflix.gr/products/SFA-202574367/images/530/20260821093825_sf_202574367_89789.webp"
  },
  "acbd929c0a92": {
   "c": "headphones",
@@ -132547,9 +132697,9 @@
  },
  "ad05d88a5bd4": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/058328/58328658/xlarge_20250117115513_havit_mp802_mouse_pad_me_stirigma_karpou_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/058328/58328658/large_20250117115513_havit_mp802_mouse_pad_me_stirigma_karpou_mayro.jpeg"
  },
  "ad06c502adb2": {
   "c": "mousepad",
@@ -132677,6 +132827,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg3/2m9Fbt/1Ses3h_SX500Y667/1717499403/turtle-beach-stealth-700x-gen-2-max-asyrmato-gaming-headset-over-ear-black-11824497.webp"
+ },
+ "ad2c84157347": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg52/2mwCiw/1Xul4h_SX388Y518/1795167485/sandberg-126-57-on-ear-akoystika-me-mikrofwno-usb-c.webp"
  },
  "ad2dd98a355c": {
   "c": "headphones",
@@ -133618,9 +133774,9 @@
  },
  "ae3efb64c129": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/050528/50528492/large_20240215155427_eureka_ergonomic_cod_mp03_gaming_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/050528/50528492/xlarge_20240215155427_eureka_ergonomic_cod_mp03_gaming_mouse_pad_xxl_800mm.jpeg"
  },
  "ae3f39702bcc": {
   "c": "monitor",
@@ -134374,9 +134530,9 @@
  },
  "aeff320cf193": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/065097/65097463/large_20260121145838_dp6273_mouse_pad.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/065097/65097463/xlarge_20260121145838_dp6273_mouse_pad.jpeg"
  },
  "af00d2cce561": {
   "c": "cooler",
@@ -134507,12 +134663,6 @@
   "c": "fan",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "af2f7793c9b3": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "shopflix",
-  "u": "https://cdn.shopflix.gr/products/SFA-105925262/images/530/1747990841_stocktools_1560989.webp"
  },
  "af3167e7be81": {
   "c": "headphones",
@@ -134694,9 +134844,9 @@
  },
  "af677bff27bf": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/036683/36683685/large_20220616110933_sharkoon_skiller_sgp30_gaming_mouse_pad_xxl_1200mm_big_hex.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/036683/36683685/xlarge_20220616110933_sharkoon_skiller_sgp30_gaming_mouse_pad_xxl_1200mm_big_hex.jpeg"
  },
  "af693f40b54b": {
   "c": "mouse",
@@ -135187,9 +135337,9 @@
  },
  "afe45ad33546": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/063940/63940987/xlarge_20251031105654_fantech_mp25_gaming_mouse_pad_xxl_800mm_mpez.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/063940/63940987/large_20251031105654_fantech_mp25_gaming_mouse_pad_xxl_800mm_mpez.jpeg"
  },
  "afe636d710cb": {
   "c": "fan",
@@ -137227,9 +137377,9 @@
  },
  "b28bf8f84dc1": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/069481/69481675/xlarge_20260921113456_powerton_mouse_pad_kokkino_wpepc1_r.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/069481/69481675/large_20260921113456_powerton_mouse_pad_kokkino_wpepc1_r.jpeg"
  },
  "b28edce84cbe": {
   "c": "headphones",
@@ -137391,9 +137541,9 @@
  },
  "b2bba40e6fe3": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/019457/19457291/large_20190718114505_omega_ompgb.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/019457/19457291/xlarge_20190718114505_omega_ompgb.jpeg"
  },
  "b2bbdf5b72e4": {
   "c": "storage",
@@ -137516,9 +137666,9 @@
  },
  "b2d73f5bdc53": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/036525/36525764/xlarge_20220610101517_nitro_concepts_deskmat_dm12_gaming_mouse_pad_xxl_1200mm_black_red.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/036525/36525764/large_20220610101517_nitro_concepts_deskmat_dm12_gaming_mouse_pad_xxl_1200mm_black_red.jpeg"
  },
  "b2d92721ae2a": {
   "c": "mousepad",
@@ -137608,6 +137758,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "bestprice"
+ },
+ "b2fdd41da248": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg18/2meprQ/1Urany_SX500Y500/1750082404/krux-space-black-xl-5903018661575.webp"
  },
  "b30098aa8330": {
   "c": "mousepad",
@@ -137916,15 +138072,15 @@
  },
  "b35cd323ce04": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/048259/48259234/xlarge_20231121144013_abysse_man_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/048259/48259234/large_20231121144013_abysse_man_mouse_pad.jpeg"
  },
  "b35ebc4210eb": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/059244/59244290/xlarge_20250314115813_fallout_xl_mousepad_vacation_art_80x30cm.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/059244/59244290/large_20250314115813_fallout_xl_mousepad_vacation_art_80x30cm.jpeg"
  },
  "b35f8146e92b": {
   "c": "storage",
@@ -139274,9 +139430,9 @@
  },
  "b522e17b6858": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/066174/66174912/xlarge_20260326112745_lorgar_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/066174/66174912/large_20260326112745_lorgar_mouse_pad.jpeg"
  },
  "b5251916ceec": {
   "c": "headphones",
@@ -139838,9 +139994,9 @@
  },
  "b5eec73bdc2c": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "shopflix",
-  "u": "https://cdn.shopflix.gr/products/SFA-200043181/images/530/1761058918_5949046608311.webp"
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://b.scdn.gr/images/sku_main_images/048513/48513838/large_20231130165545_spacer_gaming_mouse_pad_xxl_900mm_me_rgb_fotismo.jpeg"
  },
  "b5ef10343adc": {
   "c": "mouse",
@@ -142775,9 +142931,9 @@
  },
  "b9a7643968a6": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/058165/58165816/large_20250102114411_mouse_pad_carmani_v_van_gogh_gates_sti_venetia_022_0561.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/058165/58165816/xlarge_20250102114411_mouse_pad_carmani_v_van_gogh_gates_sti_venetia_022_0561.jpeg"
  },
  "b9a99a7690b5": {
   "c": "monitor",
@@ -144776,9 +144932,9 @@
  },
  "bc53a9c32cfc": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/037150/37150106/xlarge_20220713151538_xtrfy_gp2_gaming_mouse_pad_xxl_1200mm_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/037150/37150106/large_20220713151538_xtrfy_gp2_gaming_mouse_pad_xxl_1200mm_mayro.jpeg"
  },
  "bc54432a641b": {
   "c": "mouse",
@@ -146010,6 +146166,12 @@
   "d": "2026-11-11",
   "s": "bestprice"
  },
+ "bde5e7cbbb8a": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg63/fxwp9/1Xum77_SX900Y675/1795171505/hp-e24m-g4-othonh-ypologisth-24-fhd-40z32at.webp"
+ },
  "bde7914f050b": {
   "c": "headphones",
   "d": "2026-11-17",
@@ -146189,9 +146351,9 @@
  },
  "be206c2bf19a": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/060116/60116962/large_20250425102100_floston_solar_system_mouse_pad_900_x_400_x_3mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/060116/60116962/xlarge_20250425102100_floston_solar_system_mouse_pad_900_x_400_x_3mm.jpeg"
  },
  "be21d197dc05": {
   "c": "monitor",
@@ -146200,9 +146362,9 @@
  },
  "be21dac7a833": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg21/ef5Bz/1Xr1Nt_SX500Y500/1794378423/kensington-62386-black-small-62386.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg40/fxwfu/1Xu5YN_SX500Y500/1795109485/kensington-62386-black-small-62386.webp"
  },
  "be2202e6ece1": {
   "c": "monitor",
@@ -146406,6 +146568,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg34/2mrrBU/1Wa3Np_SX500Y500/1775558195/sbs-air-kab-max-akoystika-bluetooth-in-ear-white-8018417467646.webp"
+ },
+ "be58e7c6bf22": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg4/2mpTZa/1VIWJ4_SX525Y394/1769096162/acer-b196laymirx-ips-monitor-19-1280x1024-75hz-5ms-um-cb6ee-a18.webp"
  },
  "be59383a062d": {
   "c": "mousepad",
@@ -146640,9 +146808,9 @@
  },
  "bea98846679b": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/052218/52218184/xlarge_20260112180616_lorgar_lrg_cmp753_gaming_mouse_pad_360mm_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/052218/52218184/large_20260112180616_lorgar_lrg_cmp753_gaming_mouse_pad_360mm_mayro.jpeg"
  },
  "beaaf3d7a5c1": {
   "c": "monitor",
@@ -146697,9 +146865,9 @@
  },
  "bebfedd95ce8": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/007676/7676911/xlarge_20151015161138_fellowes_round_brite_mat_golfball.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/007676/7676911/large_20151015161138_fellowes_round_brite_mat_golfball.jpeg"
  },
  "bec601fcaa97": {
   "c": "mouse",
@@ -147944,9 +148112,9 @@
  },
  "c076ec7178c4": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/050385/50385336/large_20240209113416_havit_mp860_gaming_mouse_pad_xl_700mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/050385/50385336/xlarge_20240209113416_havit_mp860_gaming_mouse_pad_xl_700mm.jpeg"
  },
  "c076fa1f1c3c": {
   "c": "cooler",
@@ -148851,9 +149019,9 @@
  },
  "c18ef076eeef": {
   "c": "mousepad",
-  "d": "2026-11-19",
-  "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/064144/64144774/large_20251120135254_preyon_falcon_speed_xl_mouse_pad_xxl_900mm_mayro.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-202544470/images/530/20260821093815_sf_202544470_77389.webp"
  },
  "c19329a91174": {
   "c": "mouse",
@@ -149343,6 +149511,12 @@
   "c": "monitor",
   "d": "2026-11-13",
   "s": "bestprice"
+ },
+ "c23503277ac2": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/070760/70760844/xlarge_20261120093234_acer_ek271p6bi_ips_monitor_27_fhd_1920by1080_144hz_me_chrono_apokrisis_4ms_gtg.jpeg"
  },
  "c2394f7671c8": {
   "c": "mousepad",
@@ -150054,12 +150228,6 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg27/2lSVKP/1QXNcb_SX500Y500/1698752767/a4tech-bloody-rgb-mp-60r-black-large.webp"
  },
- "c314b681c981": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg56/2mbgko/1SYRBv_SX480Y480/1728560713/reekin-gam-001a-black-medium.webp"
- },
  "c318160933d9": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -150352,6 +150520,12 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "c389599efd1c": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg7/46ISP/1VHGqk_SX472Y472/1768795168/riversong-air-x18-light-blue-ea115-lb.webp"
  },
  "c389dc8af794": {
   "c": "cooler",
@@ -151054,6 +151228,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "c475666a2f39": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg20/epqzq/1Xu28t_SX500Y667/1795094709/bang-olufsen-beoplay-h4-asyrmata-bluetooth-akoystika-over-ear-gkri.webp"
+ },
  "c477ae41645d": {
   "c": "mobo",
   "d": "2026-10-01",
@@ -151144,9 +151324,9 @@
  },
  "c49a7d67420d": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/050385/50385306/xlarge_20240209113345_hiro_g2_gaming_mouse_pad_large_520mm.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/050385/50385306/large_20240209113345_hiro_g2_gaming_mouse_pad_large_520mm.jpeg"
  },
  "c49a8072259d": {
   "c": "fan",
@@ -151383,9 +151563,9 @@
  },
  "c4e31ce75fc8": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/046776/46776041/large_20231012155756_fs_holding_tvp_t_50_51_gaming_mouse_pad.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/046776/46776041/xlarge_20231012155756_fs_holding_tvp_t_50_51_gaming_mouse_pad.jpeg"
  },
  "c4e345d6c6c5": {
   "c": "psu",
@@ -151486,9 +151666,9 @@
  },
  "c50116dc5933": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/070404/70404542/xlarge_20261102115602_dark_project_mouse_pad_large_490mm_kokkino.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/070404/70404542/large_20261102115602_dark_project_mouse_pad_large_490mm_kokkino.jpeg"
  },
  "c505bb931f0a": {
   "c": "headphones",
@@ -151745,9 +151925,9 @@
  },
  "c56600c4b2c8": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/007613/7613784/large_20151007171151_hama_holiday_mousepad.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/007613/7613784/xlarge_20151007171151_hama_holiday_mousepad.jpeg"
  },
  "c5671c2aa6e7": {
   "c": "cooler",
@@ -151822,6 +152002,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-00038333/images/530/20210225153411_motospeed_p60_pro_with_color_box.jpeg"
  },
+ "c57c7a4990bf": {
+  "c": "storage",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203515812/images/530/00001812694087_sf_203515812_1812694087.webp"
+ },
  "c57f7d16e0ee": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -151885,9 +152071,9 @@
  },
  "c58f48cc24ac": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/020931/20931738/xlarge_20191112154231_q_tech_x_dragon_g_12.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/020931/20931738/large_20191112154231_q_tech_x_dragon_g_12.jpeg"
  },
  "c5916a7f16fe": {
   "c": "monitor",
@@ -152722,6 +152908,12 @@
   "c": "cooler",
   "d": "2026-10-01",
   "s": "shopflix"
+ },
+ "c6c41547f9e5": {
+  "c": "case",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg21/fjPmt/1XucHx_SX452Y604/1795135323/streacom-bc1-v2-silver-benchtable-koyti-ypologisth.webp"
  },
  "c6c71cf4de81": {
   "c": "headphones",
@@ -153619,9 +153811,9 @@
  },
  "c7feba0642cf": {
   "c": "mousepad",
-  "d": "2026-11-15",
-  "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/064333/64333957/xlarge_20260112184836_pyramid_international_sanrio_hello_kitty_and_friends_hello_kitty_milk_mouse_pad_350mm.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203515333/images/530/00008477619263_sf_203515333_8477619263.webp"
  },
  "c7ff5ab3a41b": {
   "c": "cooler",
@@ -154590,9 +154782,9 @@
  },
  "c93c1c01ae7b": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/065097/65097465/large_20260121145842_dp6281_mouse_pad.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/065097/65097465/xlarge_20260121145842_dp6281_mouse_pad.jpeg"
  },
  "c93d02d6e45c": {
   "c": "mobo",
@@ -156761,9 +156953,9 @@
  },
  "cc0fe5f1247a": {
   "c": "mousepad",
-  "d": "2026-11-16",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/040759/40759027/xlarge_20260112174854_havit_mp903_gaming_mouse_pad_363mm_me_rgb_fotismo_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/040759/40759027/large_20260112174854_havit_mp903_gaming_mouse_pad_363mm_me_rgb_fotismo_mayro.jpeg"
  },
  "cc1291678bea": {
   "c": "mouse",
@@ -158373,9 +158565,9 @@
  },
  "ce04ea2ac53e": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/056611/56611263/xlarge_20241113150229_logitech_g840_kda_gaming_mouse_pad_xxl_900mm_mayro.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/056611/56611263/large_20241113150229_logitech_g840_kda_gaming_mouse_pad_xxl_900mm_mayro.jpeg"
  },
  "ce061d6bdb3d": {
   "c": "storage",
@@ -158513,9 +158705,9 @@
  },
  "ce27f1f108e5": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/021454/21454963/xlarge_20191224151245_abysse_rick_morty_portal.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/021454/21454963/large_20191224151245_abysse_rick_morty_portal.jpeg"
  },
  "ce2a36dac76c": {
   "c": "mousepad",
@@ -159752,9 +159944,9 @@
  },
  "cfc1d9c479cb": {
   "c": "mousepad",
-  "d": "2026-11-16",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/058577/58577537/xlarge_20250203132517_zowie_mouse_pad_gri.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/058577/58577537/large_20250203132517_zowie_mouse_pad_gri.jpeg"
  },
  "cfc75178600e": {
   "c": "headphones",
@@ -160051,6 +160243,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "d023e3bb3a0e": {
+  "c": "monitor",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg11/fDJXl/1XuhUU_SX884Y663/1795155372/samsung-viewfinity-s7-s71h-ips-hdr-monitor-32-3840x2160-4k-uhd-60hz.webp"
  },
  "d0252079e62b": {
   "c": "mousepad",
@@ -162130,9 +162328,9 @@
  },
  "d2df4ac4b97d": {
   "c": "mousepad",
-  "d": "2026-11-18",
-  "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/070375/70375520/xlarge_20261030141820_hoco_mouse_pad_me_stirixi_karpou_gm861.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203443532/images/530/00001236889888_sf_203443532_1236889888.webp"
  },
  "d2e0420669e4": {
   "c": "headphones",
@@ -162217,9 +162415,9 @@
  },
  "d2fce8f26659": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/045320/45320727/large_20230830121458_fs_holding_virtus_pro_gaming_mouse_pad_xxl_900mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/045320/45320727/xlarge_20230830121458_fs_holding_virtus_pro_gaming_mouse_pad_xxl_900mm.jpeg"
  },
  "d2fd63f7e51c": {
   "c": "mouse",
@@ -163333,9 +163531,9 @@
  },
  "d452932ffbe6": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/065117/65117442/large_20260123102122_dp6331_mouse_pad.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/065117/65117442/xlarge_20260123102122_dp6331_mouse_pad.jpeg"
  },
  "d452b26d3820": {
   "c": "headphones",
@@ -163754,9 +163952,9 @@
  },
  "d4e319830fb4": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/029338/29338657/large_20260112172600_hama_urage_lethality_200_illuminated_gaming_mouse_pad_350mm_me_rgb_fotismo_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/029338/29338657/xlarge_20260112172600_hama_urage_lethality_200_illuminated_gaming_mouse_pad_350mm_me_rgb_fotismo_mayro.jpeg"
  },
  "d4e51b6457da": {
   "c": "headphones",
@@ -164103,9 +164301,9 @@
  },
  "d5587d412092": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/068604/68604669/large_20260720105241_corsair_cr_mm_gaming_mouse_pad_ch_9460001_ww.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/068604/68604669/xlarge_20260720105241_corsair_cr_mm_gaming_mouse_pad_ch_9460001_ww.jpeg"
  },
  "d559f78134ef": {
   "c": "psu",
@@ -164951,6 +165149,12 @@
   "s": "skroutz",
   "u": "https://b.scdn.gr/images/sku_main_images/031965/31965409/xlarge_20211027124427_reekin_gam_002b_gaming_mouse_pad_large_400mm_design_1.jpeg"
  },
+ "d6ab880b086f": {
+  "c": "mouse",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://a.scdn.gr/images/sku_main_images/061798/61798920/xlarge_20250722141709_baracuda_bgm_011_nautilus_rgb_gaming_pontiki_12800_dpi_mayro.jpeg"
+ },
  "d6ac98e0e3cb": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -165177,9 +165381,9 @@
  },
  "d7089b01b144": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/070356/70356700/xlarge_20261030093731_havit_hv_mp867_mouse_pad_black_white.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/070356/70356700/large_20261030093731_havit_hv_mp867_mouse_pad_black_white.jpeg"
  },
  "d70c46082785": {
   "c": "mouse",
@@ -165327,6 +165531,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg45/eiahn/1WcZBd_SX500Y500/1776257047/spirit-of-gamer-red-skull-medium-sog-pad01mr.webp"
+ },
+ "d7353ef7f02a": {
+  "c": "mouse",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg24/9jeWs/1SYzV1_SX500Y667/1728492731/turbo-x-office-asyrmato-pontiki-turquoise.webp"
  },
  "d7374637e725": {
   "c": "mouse",
@@ -166701,9 +166911,9 @@
  },
  "d934abdbd2e9": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/060448/60448547/xlarge_20250519094845_maxilari_pontikiou_apple_magic_mouse.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/060448/60448547/large_20250519094845_maxilari_pontikiou_apple_magic_mouse.jpeg"
  },
  "d9363b7d68e2": {
   "c": "case",
@@ -167052,9 +167262,9 @@
  },
  "d98b3d5cfceb": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/070593/70593846/xlarge_20261111111208_powerton_gaming_mouse_pad_portokali_lama_pwwppg1tgl0e.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/070593/70593846/large_20261111111208_powerton_gaming_mouse_pad_portokali_lama_pwwppg1tgl0e.jpeg"
  },
  "d98dc8ebb7ed": {
   "c": "cooler",
@@ -167085,9 +167295,9 @@
  },
  "d992370afbc6": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/065185/65185278/large_20260128102519_q_tech_x_dragon_gaming_mouse_pad_340mm_gri.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/065185/65185278/xlarge_20260128102519_q_tech_x_dragon_gaming_mouse_pad_340mm_gri.jpeg"
  },
  "d992ec598abc": {
   "c": "storage",
@@ -167873,9 +168083,9 @@
  },
  "daae4f4402dd": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/064163/64163837/xlarge_20260403153340_cougar_speed_gaming_mouse_pad_xxl_900mm_mpez_3ptrbxbbrb3_0001.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/064163/64163837/large_20260403153340_cougar_speed_gaming_mouse_pad_xxl_900mm_mpez_3ptrbxbbrb3_0001.jpeg"
  },
  "daaf413c1538": {
   "c": "cooler",
@@ -168141,9 +168351,9 @@
  },
  "db0193f167eb": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/020548/20548058/large_20191015131506_sbox_wc_063.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/020548/20548058/xlarge_20191015131506_sbox_wc_063.jpeg"
  },
  "db02417740c8": {
   "c": "cooler",
@@ -169666,6 +169876,12 @@
   "d": "2026-10-01",
   "s": "shopflix"
  },
+ "dd00de5b6051": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg2/7dozw/1SYzV1_SX466Y466/1728492731/esperanza-ea133-dog-small.webp"
+ },
  "dd05876de4b3": {
   "c": "mobo",
   "d": "2026-10-01",
@@ -169758,6 +169974,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg10/drOSS/1XpXgQ_SX344Y344/1794122696/logitech-powerplay-wireless-charging-system-black-medium-943-000110.webp"
+ },
+ "dd222710d81c": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg41/d2ZE5/1Xu6bZ_SX500Y500/1795110303/awei-a832bl-akoystiko-bluetooth-earbud-pink-gold.webp"
  },
  "dd234b736e56": {
   "c": "mouse",
@@ -170187,6 +170409,12 @@
   "c": "storage",
   "d": "2026-10-03",
   "s": "shopflix"
+ },
+ "ddb1f7d8889f": {
+  "c": "mousepad",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg10/2muFB0/1Xfbx4_SX500Y500/1791555910/baracuda-pad-orca-medium.webp"
  },
  "ddb30be881e8": {
   "c": "headphones",
@@ -170672,9 +170900,9 @@
  },
  "de41b78b3b34": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/058916/58916957/xlarge_20250225111842_hama_mini_ergo_mouse_pad_126855.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/058916/58916957/large_20250225111842_hama_mini_ergo_mouse_pad_126855.jpeg"
  },
  "de466f960154": {
   "c": "headphones",
@@ -171859,9 +172087,9 @@
  },
  "dff484b52873": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/063405/63405964/large_20251007103135_grupo_erik_red_fuji_hokusai_gaming_mouse_pad_erik22776.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/063405/63405964/xlarge_20251007103135_grupo_erik_red_fuji_hokusai_gaming_mouse_pad_erik22776.jpeg"
  },
  "dff5f786593a": {
   "c": "mousepad",
@@ -172262,12 +172490,6 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
- "e0697cca7f4c": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg7/2muFAX/1Xfbx4_SX437Y437/1791555910/logilink-id0224-pink-small.webp"
- },
  "e069da5bb693": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -172605,9 +172827,9 @@
  },
  "e0c9bbbef9c3": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/051421/51421038/xlarge_20240319133702_derform_df_pladn18_96589_mouse_pad_large_400mm.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/051421/51421038/large_20240319133702_derform_df_pladn18_96589_mouse_pad_large_400mm.jpeg"
  },
  "e0cbe9f949b8": {
   "c": "fan",
@@ -172813,9 +173035,9 @@
  },
  "e10ad7ab7554": {
   "c": "mousepad",
-  "d": "2026-11-16",
-  "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/060855/60855689/xlarge_20250606102257_verk_group_gaming_mouse_pad_xxl_900mm_me_rgb_fotismo_gri.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-200059807/images/530/1762244217_5907451341803.webp"
  },
  "e10c84773537": {
   "c": "cpu",
@@ -173292,9 +173514,9 @@
  },
  "e19f9e2dc311": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/057899/57899102/large_20241210121917_hama_00126856_mouse_pad_mayro.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/057899/57899102/xlarge_20241210121917_hama_00126856_mouse_pad_mayro.jpeg"
  },
  "e1a166f87cba": {
   "c": "storage",
@@ -175634,6 +175856,12 @@
   "d": "2026-10-28",
   "s": "skroutz"
  },
+ "e490806f1307": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg4/7ohCs/1Wsu39_SX431Y575/1779949019/shure-mv88se215-cl-efs-mv88se215-cl-ef.webp"
+ },
  "e492141c08d5": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -176425,9 +176653,9 @@
  },
  "e5976ac2e94f": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/048096/48096374/xlarge_20260112175932_itemlab_lab920001_gaming_mouse_pad_360mm_outriders_oversize.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/048096/48096374/large_20260112175932_itemlab_lab920001_gaming_mouse_pad_360mm_outriders_oversize.jpeg"
  },
  "e59771aa02ff": {
   "c": "monitor",
@@ -177439,9 +177667,9 @@
  },
  "e6cf8c343ca1": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/065097/65097462/large_20260121145838_dp6269_mouse_pad.jpeg"
+  "u": "https://d.scdn.gr/images/sku_main_images/065097/65097462/xlarge_20260121145838_dp6269_mouse_pad.jpeg"
  },
  "e6d2062c2eaf": {
   "c": "case",
@@ -179845,9 +180073,9 @@
  },
  "e9e4a589c8e6": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/066285/66285507/large_20260402100415_hama_mouse_pad_easy_textile_blue_hama_126860.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/066285/66285507/xlarge_20260402100415_hama_mouse_pad_easy_textile_blue_hama_126860.jpeg"
  },
  "e9e6e1c60007": {
   "c": "case",
@@ -181208,9 +181436,9 @@
  },
  "eb8f3ee7d255": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/037913/37913992/large_20220905153712_paladone_stranger_things_mouse_pad_xxl_800mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/037913/37913992/xlarge_20220905153712_paladone_stranger_things_mouse_pad_xxl_800mm.jpeg"
  },
  "eb905e99f5a0": {
   "c": "headphones",
@@ -183426,9 +183654,9 @@
  },
  "ee52dd1a37ce": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg51/dKetl/1XtV1F_SX500Y500/1795067379/esperanza-grunge-ea146g-medium-ea146g.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg51/dKetl/1XubX4_SX500Y500/1795132442/esperanza-grunge-ea146g-medium-ea146g.webp"
  },
  "ee539c42f06c": {
   "c": "mouse",
@@ -183765,12 +183993,6 @@
   "c": "mouse",
   "d": "2026-11-13",
   "s": "shopflix"
- },
- "eebd3c6d8559": {
-  "c": "mousepad",
-  "d": "2026-11-15",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg22/7rj94/1Xsudq_SX493Y493/1794725992/razer-strider-chroma-hybrid-black-xxl-rz02-04490100-r3m1-8887910063071.webp"
  },
  "eec046a01f4a": {
   "c": "mouse",
@@ -184177,9 +184399,9 @@
  },
  "ef48728774bd": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/039201/39201847/large_20221108122022_ducky_x_sou_sou_mouse_pad_xxl_800mm_mple.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/039201/39201847/xlarge_20221108122022_ducky_x_sou_sou_mouse_pad_xxl_800mm_mple.jpeg"
  },
  "ef4895e61119": {
   "c": "storage",
@@ -184225,9 +184447,9 @@
  },
  "ef5759d23377": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/058279/58279634/large_20250114092825_hator_tonn_evo_l_mousepad.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/058279/58279634/xlarge_20250114092825_hator_tonn_evo_l_mousepad.jpeg"
  },
  "ef5b69e86bbf": {
   "c": "storage",
@@ -184262,9 +184484,9 @@
  },
  "ef673ba482cb": {
   "c": "mousepad",
-  "d": "2026-11-15",
-  "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/070426/70426141/xlarge_20261103095430_secret_gear_carpet_diem_xd_1_gaming_mouse_pad.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203515318/images/530/00004242981430_sf_203515318_4242981430.webp"
  },
  "ef6c9d01f843": {
   "c": "ram",
@@ -184417,12 +184639,6 @@
   "c": "mobo",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "efa3cbd7dd08": {
-  "c": "mousepad",
-  "d": "2026-11-15",
-  "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/061427/61427956/xlarge_20250701102837_glorious_pc_gaming_race_mouse_pad_xxl_1220mm_mayro.jpeg"
  },
  "efa4a77c86a2": {
   "c": "headphones",
@@ -184579,9 +184795,9 @@
  },
  "efeff3827017": {
   "c": "mousepad",
-  "d": "2026-11-15",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/040675/40675834/xlarge_20230215154227_activision_mggel009_gaming_mouse_pad_xxl_900mm_me_rgb_fotismo_mayro.jpeg"
+  "u": "https://c.scdn.gr/images/sku_main_images/040675/40675834/large_20230215154227_activision_mggel009_gaming_mouse_pad_xxl_900mm_me_rgb_fotismo_mayro.jpeg"
  },
  "eff13b212558": {
   "c": "headphones",
@@ -185176,9 +185392,9 @@
  },
  "f0bb2aba55c3": {
   "c": "mousepad",
-  "d": "2026-11-17",
-  "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/064406/64406262/xlarge_20251126121338_agifty_m48agi0054_mouse_pad.jpeg"
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203385706/images/530/00005731976197_sf_203385706_5731976197.webp"
  },
  "f0bb741fdcf2": {
   "c": "monitor",
@@ -185432,9 +185648,9 @@
  },
  "f1070f5480e8": {
   "c": "mousepad",
-  "d": "2026-11-17",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/060475/60475441/xlarge_20250520095840_hama_leather_look_mouse_pad_gray_223_x_183_x_3_mm.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/060475/60475441/large_20250520095840_hama_leather_look_mouse_pad_gray_223_x_183_x_3_mm.jpeg"
  },
  "f107b824092c": {
   "c": "storage",
@@ -186497,12 +186713,6 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-02483284/images/530/2457806.jpg"
  },
- "f2817b8bd22d": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg8/2muFAY/1Xfbx4_SX434Y434/1791555910/logilink-id0223-blue-small.webp"
- },
  "f2862d8aa960": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -186976,6 +187186,12 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "f323ac363b24": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "skroutz",
+  "u": "https://d.scdn.gr/images/sku_main_images/017781/17781024/xlarge_20190318133940_remax_t21_mayro.jpeg"
  },
  "f323bfef525f": {
   "c": "headphones",
@@ -190697,9 +190913,9 @@
  },
  "f825a7c4e209": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg6/eLSzc/1XcMRD_SX436Y436/1790984429/paladone-harry-potter-marauders-map-beige-xxl-pp8826hp.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg5/ficQt/1XuiN1_SX426Y426/1795158727/paladone-harry-potter-marauders-map-beige-xxl-pp8826hp.webp"
  },
  "f825ea88d8c2": {
   "c": "cooler",
@@ -190756,12 +190972,6 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "f8367f69f1a5": {
-  "c": "mousepad",
-  "d": "2026-11-18",
-  "s": "skroutz",
-  "u": "https://c.scdn.gr/images/sku_main_images/068902/68902660/large_20260806105334_hp_hyperx_pulsefire_black_m_mouse_pad.jpeg"
  },
  "f8379425d11c": {
   "c": "fan",
@@ -191401,9 +191611,9 @@
  },
  "f92f6a8d2c40": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://b.scdn.gr/images/sku_main_images/045425/45425120/large_20230904134438_naxius_nxmsp_01_mouse_pad_250mm_me_stirigma_karpou_mayro.jpeg"
+  "u": "https://a.scdn.gr/images/sku_main_images/045425/45425120/xlarge_20230904134438_naxius_nxmsp_01_mouse_pad_250mm_me_stirigma_karpou_mayro.jpeg"
  },
  "f9304240929a": {
   "c": "cooler",
@@ -191553,6 +191763,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg26/5mcY2/1XhwcY_SX500Y500/1792112044/tronsmart-apollo-air-akoystika-bluetooth-in-ear-anthektika-sto-nero-white.webp"
+ },
+ "f95aa0ef0d37": {
+  "c": "headphones",
+  "d": "2026-11-20",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg58/fDa7E/1Xuh6r_SX500Y667/1795152243/hama-221848-ensyrmata-asyrmata-bluetooth-akoystika-over-ear-mayra.webp"
  },
  "f95c5ec3c2c0": {
   "c": "headphones",
@@ -192132,9 +192348,9 @@
  },
  "fa0fc5183750": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "skroutz",
-  "u": "https://d.scdn.gr/images/sku_main_images/011938/11938197/large_20170517152432_armaggeddon_ad_13l_tavor.jpeg"
+  "u": "https://b.scdn.gr/images/sku_main_images/011938/11938197/xlarge_20170517152432_armaggeddon_ad_13l_tavor.jpeg"
  },
  "fa11387ab963": {
   "c": "fan",
@@ -194471,6 +194687,12 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
+ "fd08270cd98d": {
+  "c": "fan",
+  "d": "2026-11-20",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-203528545/images/530/00002567826528_sf_203528545_2567826528.webp"
+ },
  "fd083405c49a": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -195474,9 +195696,9 @@
  },
  "fe755d888130": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg36/dIWlS/1XtVjw_SX500Y500/1795068486/patriot-viper-v160ouxk-rgb-black-medium.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg36/dIWlS/1Xucev_SX500Y500/1795133523/patriot-viper-v160ouxk-rgb-black-medium.webp"
  },
  "fe75ec9b9dbe": {
   "c": "mouse",
@@ -196022,9 +196244,9 @@
  },
  "ff295bb1aea8": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-20",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg50/9jc3g/1X65At_SX500Y500/1789388105/lenovo-ideapad-black-medium-gxh1c97873.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg50/9jc3g/1XunSW_SX500Y500/1795178314/lenovo-ideapad-black-medium-gxh1c97873.webp"
  },
  "ff2bbdeddcce": {
   "c": "case",
