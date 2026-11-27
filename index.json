@@ -1053,6 +1053,12 @@
   "d": "2026-10-01",
   "s": "shopflix"
  },
+ "01600037dfe2": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg22/dI7QO/1WHqgI_SX413Y310/1783509404/benq-sw270c-ips-monitor-27-2560x1440-qhd-76hz-5ms.webp"
+ },
  "016081986167": {
   "c": "monitor",
   "d": "2026-11-11",
@@ -1274,6 +1280,12 @@
   "d": "2026-10-03",
   "s": "shopflix"
  },
+ "019acfbc3b1e": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg52/fx7ik/1XvZmv_SX450Y338/1795560703/acer-pe270ktbmiiphcuzx-ips-hdr-monitor-27-5120x2880-60hz-4ms-um-hp0ee019.webp"
+ },
  "019c68a17b5b": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -1450,6 +1462,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-103134728/images/530/1726467596_7350088304884.webp"
  },
+ "01d9cdb57e86": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg52/fD4La/1XtMxU_SX900Y675/1795034782/viewsonic-vg2756-4k-ips-monitor-27-3840x2160-4k-uhd-75hz-5ms-s7797044-0766907008555.webp"
+ },
  "01da8b18e648": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -1572,9 +1590,9 @@
  },
  "02003c47b5f8": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg37/axQy1/1XlFQB_SX437Y437/1793102409/subblim-graffiti-xl-s0433084.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg37/axQy1/1XwATZ_SX437Y437/1795705007/subblim-graffiti-xl-s0433084.webp"
  },
  "02025889ffb3": {
   "c": "mousepad",
@@ -2922,6 +2940,12 @@
   "d": "2026-11-14",
   "s": "shopflix"
  },
+ "03c20735048a": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg46/dGS4u/1XwBPX_SX813Y610/1795708601/lg-27bn55up-b-ips-hdr-monitor-27-3840x2160-4k-uhd-75hz-5ms-27bn55up-baeu.webp"
+ },
  "03c2d918ad8b": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -3032,12 +3056,6 @@
   "c": "mobo",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "03e21c5e1142": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg58/3yn22/1XfTe4_SX422Y422/1791723868/krom-knout-kontrol-black-medium-nxkromkntkntrl.webp"
  },
  "03e2608bedfa": {
   "c": "mouse",
@@ -9007,12 +9025,6 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
- "0bc19be27ac4": {
-  "c": "mousepad",
-  "d": "2026-11-26",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg1/2mr8dP/1W3Adw_SX222Y222/1774014526/krux-krx0020-black-xxl-5903018661582.webp"
- },
  "0bc22b876cc7": {
   "c": "monitor",
   "d": "2026-11-11",
@@ -11016,6 +11028,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "0e66cdc85448": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/2mrgU5/1W66qC_SX546Y410/1774615002/iiyama-prolite-xub2293hs-b6-ips-monitor-215-1920x1080-fhd-100hz-1ms.webp"
+ },
  "0e67a381032e": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -11401,12 +11419,6 @@
   "d": "2026-11-14",
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-202579641/images/530/20260821093759_sf_202579641_28856.webp"
- },
- "0eee28065aec": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg30/6SXv0/1UnsOy_SX348Y348/1749199958/sharkoon-skiller-sgp1-black-large-4044951019243.webp"
  },
  "0eef09aac6ed": {
   "c": "cooler",
@@ -12197,6 +12209,12 @@
   "c": "cooler",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "100afac78e96": {
+  "c": "case",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg21/2mwRrn/1XwwNI_SX500Y667/1795689242/darkflash-floatron-f1-atx-with-fans-white-gaming-midi-tower-koyti-ypologisth-rgb-me-plaino-parathyro.webp"
  },
  "100b34135ba4": {
   "c": "mouse",
@@ -13266,6 +13284,12 @@
   "d": "2026-10-01",
   "s": "shopflix"
  },
+ "118a943ef93b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg36/apo2M/1X8IAw_SX585Y439/1790014680/ag-neovo-sc-2702-va-monitor-27-1920x1080-fhd-75hz-5ms.webp"
+ },
  "118b39f5e495": {
   "c": "mousepad",
   "d": "2026-11-14",
@@ -13456,6 +13480,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "11e07474f802": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg30/dlNoy/1W3TvG_SX900Y675/1774088688/viewsonic-vx2785-2k-mhdu-ips-gaming-monitor-27-2560x1440-qhd-60hz-5ms.webp"
  },
  "11e2b9ecc93d": {
   "c": "case",
@@ -14912,6 +14942,12 @@
   "d": "2026-10-03",
   "s": "shopflix"
  },
+ "13d8400727a3": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg11/fuKlZ/1XmqUw_SX900Y675/1793283320/iiyama-prolite-t1932msc-b2s-ips-monitor-19-1280x1024-60hz-14ms.webp"
+ },
  "13d8c1e39497": {
   "c": "mousepad",
   "d": "2026-11-14",
@@ -15007,6 +15043,12 @@
   "d": "2026-11-12",
   "s": "bestprice"
  },
+ "13f63838893f": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg40/2meNMk/1UC2hM_SX900Y675/1752672902/benq-pd2706qn-ips-hdr-monitor-27-2560x1440-qhd-100hz-5ms-9h-lndla-tbe-4718755095412.webp"
+ },
  "13f7948ad76a": {
   "c": "monitor",
   "d": "2026-11-11",
@@ -15044,12 +15086,6 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg43/fionp/1Xa6uA_SX500Y667/1790344896/sbox-hs-201-on-ear-akoystika-ypologisth-me-mikrofwno-usb-a.webp"
- },
- "1401cb035cdd": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg14/2mcB54/1TGqBg_SX308Y308/1738943342/mars-gaming-mmp224-black-xxl-8435693107101.webp"
  },
  "140504ec851c": {
   "c": "gpu",
@@ -17826,6 +17862,12 @@
   "d": "2026-11-08",
   "s": "shopflix"
  },
+ "17b4906b16b8": {
+  "c": "mouse",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-13994244/images/530/images_by_date_2023_August_22_08_main_images_nowloading_gr_24364.jpeg"
+ },
  "17b5ea9c8982": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -18009,6 +18051,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "17fe6e1195e9": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-01286573/images/530/MIC-PH3SW-SOG_Pro-H3-Wired-Gaming-Headset-Switch-BlkRed-1.jpg"
  },
  "17ffbf01ec8b": {
   "c": "cpu",
@@ -21486,6 +21534,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "1c756bb06ee1": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg26/2meSwi/1UEwHF_SX900Y675/1753266483/hp-series-3-pro-324pe-ips-monitor-238-1920x1080-fhd-100hz-5ms-b1gm5aa.webp"
+ },
  "1c773f6c5b7f": {
   "c": "case",
   "d": "2026-10-01",
@@ -21676,6 +21730,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
+ },
+ "1cb1b2bb25f8": {
+  "c": "storage",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-105906052/images/530/1747990841_stocktools_2114779.webp"
  },
  "1cb1e52ef66a": {
   "c": "headphones",
@@ -24442,6 +24502,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-104692270/images/530/1737723545_flexin_102102.webp"
  },
+ "20376c10d085": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg25/eHYO5/1XqJ1i_SX500Y375/1794306244/iiyama-t2452msc-w2ag-ips-monitor-24-1920x1080-fhd-100hz-5ms.webp"
+ },
  "2038bea88804": {
   "c": "cooler",
   "d": "2026-10-01",
@@ -25175,9 +25241,9 @@
  },
  "20f9654b3aeb": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg63/8zcFV/1XfTe4_SX305Y305/1791723868/redragon-suzaki-p003-black-xxl.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg63/8zcFV/1XwATZ_SX305Y305/1795705007/redragon-suzaki-p003-black-xxl.webp"
  },
  "20fc60742106": {
   "c": "headphones",
@@ -26900,6 +26966,12 @@
   "d": "2026-11-12",
   "s": "bestprice"
  },
+ "2386dd21302d": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg54/fxwp0/1XwDQZ_SX900Y675/1795716353/hp-m27m-ips-monitor-27-1920x1080-fhd-60hz-5ms-196548350476.webp"
+ },
  "238787d7a163": {
   "c": "cooler",
   "d": "2026-10-26",
@@ -27188,6 +27260,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "23e5d7918b2e": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg31/fa0hx/1Xsgp9_SX900Y675/1794672903/samsung-viewfinity-s7-s70h-ips-hdr-monitor-32-3840x2160-4k-uhd-60hz-5ms-ls27h700eauxen.webp"
  },
  "23e6bdb92d7c": {
   "c": "mobo",
@@ -27834,9 +27912,9 @@
  },
  "24bf731bea55": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg29/buBt3/1XfTe4_SX500Y500/1791723868/ewent-ew3181-black-small-8056045875938.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/buBt3/1XwATZ_SX500Y500/1795705007/ewent-ew3181-black-small-8056045875938.webp"
  },
  "24c181a131c8": {
   "c": "fan",
@@ -30033,6 +30111,12 @@
   "d": "2026-11-14",
   "s": "shopflix"
  },
+ "277dd5cb23c5": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/5Ye3X/1WGINO_SX584Y438/1783342320/viewsonic-td2223-tn-monitor-215-1920x1080-fhd-75hz-5ms.webp"
+ },
  "278112d3b980": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -30298,12 +30382,6 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
- },
- "27db6558b380": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg3/2ma9OP/1SrUJl_SX471Y471/1720707907/subblim-sub-mp-01puw01-black-xxxl-s9906859.webp"
  },
  "27db9930c739": {
   "c": "monitor",
@@ -32618,6 +32696,12 @@
   "d": "2026-10-15",
   "s": "bestprice"
  },
+ "2aa56b61158b": {
+  "c": "storage",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-105946797/images/530/1747990852_stocktools_2482801.webp"
+ },
  "2aa63b7316fb": {
   "c": "storage",
   "d": "2026-11-17",
@@ -33968,9 +34052,9 @@
  },
  "2c417daa2073": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg37/bpgB7/1XsZYT_SX337Y337/1794848099/gembird-gaming-pro-black-small-mp-gamepro-s.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg37/bpgB7/1XwATZ_SX337Y337/1795705007/gembird-gaming-pro-black-small-mp-gamepro-s.webp"
  },
  "2c432ad5a413": {
   "c": "headphones",
@@ -35960,6 +36044,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "2ebb1ff3286f": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg9/2mq6cV/1VLra0_SX517Y388/1769689808/asus-proart-pa278qgv-gen2-ips-hdr-monitor-27-2560x1440-qhd-120hz-5ms-90lm05l1-b01k71.webp"
+ },
  "2ebd3987db9b": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -37057,6 +37147,12 @@
   "c": "storage",
   "d": "2026-10-03",
   "s": "shopflix"
+ },
+ "3034e9f8e990": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg27/2mbMFB/1TdJLA_SX450Y338/1732105506/ag-neovo-tx-1502-tn-monitor-15-1024x768-60hz-5ms-tx152011e0100.webp"
  },
  "3035934bbb60": {
   "c": "cooler",
@@ -44537,6 +44633,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "399515388afa": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg42/2mbMvw/1TdIZa_SX411Y309/1732102504/philips-49b2u6903ch-va-hdr-curved-monitor-489-5120x1440-120hz-4ms-49b2u6903ch00.webp"
+ },
  "3995ede2447b": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -44832,6 +44934,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg18/2msTlw/1WHO0M_SX227Y227/1783600672/fury-yari-speed-dawn-crasher-xxl-nfu-2446.webp"
+ },
+ "39e22c25f4d9": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg36/2lSFN2/1Xu8eB_SX450Y338/1795118153/viewsonic-td2430-va-monitor-236-1920x1080-fhd-75hz-10ms.webp"
  },
  "39e3556cdbb5": {
   "c": "cooler",
@@ -47138,6 +47246,12 @@
   "d": "2026-10-01",
   "s": "shopflix"
  },
+ "3d0c418cb8b1": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg7/2lRISr/1RwTrM_SX900Y675/1707118278/philips-221b8lheb-tn-215-1920-x-1080-fhd-75hz-1ms.webp"
+ },
  "3d0cba6cfcb7": {
   "c": "psu",
   "d": "2026-10-01",
@@ -47449,9 +47563,9 @@
  },
  "3d74b20c3f14": {
   "c": "mousepad",
-  "d": "2026-11-21",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg42/fxwfw/1XuFfB_SX500Y500/1795245067/sandberg-520-38-black-medium.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg42/fxwfw/1XwDQZ_SX500Y500/1795716353/sandberg-520-38-black-medium.webp"
  },
  "3d74be994d66": {
   "c": "mouse",
@@ -48702,6 +48816,12 @@
   "c": "case",
   "d": "2026-10-26",
   "s": "shopflix"
+ },
+ "3f0b3a714597": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-104749341/images/530/1738593264_cosmomarket_gr_cay_SKU_CAN_0367.webp"
  },
  "3f0b7061ccca": {
   "c": "headphones",
@@ -49982,9 +50102,9 @@
  },
  "4089f91cdbc8": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg36/76OP2/1XfTe4_SX361Y361/1791723868/deepcool-gm820-black-xxl.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg36/76OP2/1XwATZ_SX361Y361/1795705007/deepcool-gm820-black-xxl.webp"
  },
  "408bbfdfda64": {
   "c": "headphones",
@@ -51543,6 +51663,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "429217de6d05": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-00671396/images/530/httpsiimgurcome7jo6nc-1.png"
  },
  "42927a265965": {
   "c": "headphones",
@@ -53763,9 +53889,9 @@
  },
  "4568d1606ed9": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg58/70bEK/1XfTe4_SX500Y500/1791723868/iggual-igg317310-medium-s0231458.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg58/70bEK/1XwATZ_SX500Y500/1795705007/iggual-igg317310-medium-s0231458.webp"
  },
  "45691c664e50": {
   "c": "storage",
@@ -58737,6 +58863,12 @@
   "d": "2026-11-11",
   "s": "snif"
  },
+ "4bb689a3bc33": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg52/fhVTm/1Xa86F_SX570Y428/1790351101/terra-3295w-pv-ips-othonh-ypologisth-315-3840x2160-4k-uhd-60hz-5ms.webp"
+ },
  "4bbbe5919329": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -59456,9 +59588,9 @@
  },
  "4ca636e62acd": {
   "c": "mousepad",
-  "d": "2026-11-25",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg48/7X15u/1XvV7W_SX500Y500/1795544424/esperanza-classic-maxi.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg48/7X15u/1XwDRF_SX500Y500/1795716395/esperanza-classic-maxi.webp"
  },
  "4ca6cea6adc9": {
   "c": "headphones",
@@ -59703,6 +59835,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg44/dthes/1WOldA_SX500Y667/1785158286/remax-rb-725hb-asyrmata-bluetooth-akoystika-on-ear-mayra.webp"
+ },
+ "4cf10b9220b2": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg59/d02O7/1Xr81B_SX683Y512/1794402363/iiyama-prolite-tf1615mc-b1-ips-monitor-156-1920x1080-fhd-67hz-25ms.webp"
  },
  "4cf177b3130f": {
   "c": "headphones",
@@ -64459,6 +64597,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "53077783d41a": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-100432322/images/530/1714652792_8806094926347.webp"
+ },
  "530b1447c76c": {
   "c": "psu",
   "d": "2026-10-01",
@@ -66657,9 +66801,9 @@
  },
  "55ce4799343a": {
   "c": "mousepad",
-  "d": "2026-11-20",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg43/a5CMX/1Xu4WI_SX490Y490/1795105512/asus-rog-sheath-black-xxl-900mm-90mp00k1-b0uc00.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg63/aFTNJ/1XwD2W_SX490Y490/1795713250/asus-rog-sheath-black-xxl-900mm-90mp00k1-b0uc00.webp"
  },
  "55ce5d7d599f": {
   "c": "case",
@@ -67229,12 +67373,6 @@
   "d": "2026-11-11",
   "s": "bestprice"
  },
- "566bc1a3a27c": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg13/b8Jml/1XfTe4_SX500Y500/1791723868/oem-skullkiller-gmpr-red-small-s0220172.webp"
- },
  "566da8c91f04": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -67803,6 +67941,12 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "5732925107b4": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg56/2meD4Q/1UwWeX_SX715Y536/1751458023/hp-series-5-pro-524pm-ips-monitor-238-1920x1080-fhd-60hz-5ms.webp"
  },
  "573711b1deda": {
   "c": "storage",
@@ -68556,6 +68700,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-105285520/images/530/1743179758_6971519750011.webp"
  },
+ "5820d1144ed1": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg5/2lRfaR/1QXN8K_SX900Y675/1698752554/philips-273v7qjab-ips-monitor-27-1920x1080-fhd-75hz-4ms.webp"
+ },
  "5821007c3526": {
   "c": "storage",
   "d": "2026-10-03",
@@ -69114,12 +69264,6 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "skroutz"
- },
- "58c3b24d46b6": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg57/9R545/1Uwydp_SX500Y500/1751365671/nilox-nxmp011-black-small.webp"
  },
  "58c4eb05d617": {
   "c": "storage",
@@ -74950,6 +75094,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "605c5df2b2e5": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg11/fxwmf/1Xqtqu_SX900Y675/1794246302/philips-221b8ljeb-tn-monitor-215-1920-x-1080-fhd-75hz-1ms.webp"
+ },
  "605c5f812ec1": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -75041,9 +75191,9 @@
  },
  "607849dd4193": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg26/9S1UC/1XfTe4_SX375Y375/1791723868/nilox-nxmp003-red-small.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg26/9S1UC/1XwATZ_SX375Y375/1795705007/nilox-nxmp003-red-small.webp"
  },
  "607affd9a9a5": {
   "c": "headphones",
@@ -76266,6 +76416,12 @@
   "d": "2026-11-14",
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-08387674/images/530/20210419171539_marvo_hg9031.jpeg"
+ },
+ "620e49356e09": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg43/13uTF/1WpBtf_SX500Y500/1779262561/a4tech-xgame-bloody-b-071-black-red-medium.webp"
  },
  "620f19744b4d": {
   "c": "headphones",
@@ -77757,12 +77913,6 @@
   "c": "storage",
   "d": "2026-10-03",
   "s": "bestprice"
- },
- "63dc03603d43": {
-  "c": "mousepad",
-  "d": "2026-11-26",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg8/fD3VS/1XwoHa_SX500Y500/1795658084/logilink-id0027p-silcon-wrist-pink.webp"
  },
  "63dca32f64d1": {
   "c": "cooler",
@@ -80027,6 +80177,12 @@
   "d": "2026-11-11",
   "s": "bestprice"
  },
+ "669e2e29f370": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg14/2mqJye/1VX1KZ_SX796Y597/1772452093/iiyama-xb2493hsu-b1-ips-monitor-238-1920x1080-fhd-120hz-1ms.webp"
+ },
  "669ed98bdc53": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -80206,6 +80362,12 @@
   "c": "cooler",
   "d": "2026-10-12",
   "s": "skroutz"
+ },
+ "66df60b9d059": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg10/2mdMHE/1Uerdx_SX740Y555/1747048867/dell-se2225hm-va-monitor-22-1920x1080-fhd-100hz-8ms.webp"
  },
  "66e12c23ce96": {
   "c": "mobo",
@@ -80665,6 +80827,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "skroutz"
+ },
+ "6776772fdb0b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg12/fuKm0/1XtcuB_SX607Y455/1794896193/iiyama-t1721msc-b3-tn-monitor-17-1280x1024-60hz-5ms.webp"
  },
  "677824d45946": {
   "c": "case",
@@ -83032,9 +83200,9 @@
  },
  "6aa2ae2213ad": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg62/bphkW/1XfTe4_SX324Y324/1791723868/krom-knout-speed-black-medium-nxkromkntspd.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg62/bphkW/1XwATZ_SX324Y324/1795705007/krom-knout-speed-black-medium-nxkromkntspd.webp"
  },
  "6aac641a365a": {
   "c": "mouse",
@@ -83303,6 +83471,12 @@
   "c": "fan",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "6b081e48f12d": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg49/eFdh7/1WMuqJ_SX900Y675/1784717041/acer-pm161q-tn-forhto-monitor-156-1920x1080-fhd-60hz-7msumzp1ee001.webp"
  },
  "6b098080793f": {
   "c": "mousepad",
@@ -83851,12 +84025,6 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
- "6b969d360bde": {
-  "c": "mousepad",
-  "d": "2026-11-25",
-  "s": "skroutz",
-  "u": "https://a.scdn.gr/images/sku_main_images/067821/67821665/xlarge_20260612102709_razer_rz02_05490900_r3m1_gaming_mouse_pad_large_500mm_mayro.jpeg"
- },
  "6b9722dcb45c": {
   "c": "mouse",
   "d": "2026-11-17",
@@ -84304,6 +84472,12 @@
   "d": "2026-11-13",
   "s": "shopflix"
  },
+ "6c23ef60addc": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-12987678/images/530/1722257237_SF_12987678.webp"
+ },
  "6c24b96c2c04": {
   "c": "storage",
   "d": "2026-10-03",
@@ -84713,12 +84887,6 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "shopflix"
- },
- "6c9f257018da": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg48/5BB84/1XfTe4_SX500Y500/1791723868/oem-skullkiller-gmpr1-red-medium-s0231804.webp"
  },
  "6c9f282428f5": {
   "c": "fan",
@@ -87436,6 +87604,12 @@
   "s": "snif",
   "u": "https://external.webstorage.gr/mmimages/image/13/30/40/8/2127228-SPEEDLINK-hero-800x800.jpg"
  },
+ "702119071565": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg44/2mbnbu/1T1O94_SX876Y657/1729262402/iiyama-prolite-xu2792uhsu-b6-ips-monitor-27-3840x2160-4k-uhd-75hz-4ms.webp"
+ },
  "702253629a9c": {
   "c": "storage",
   "d": "2026-10-03",
@@ -88201,6 +88375,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-203385724/images/530/00009838268791_sf_203385724_9838268791.webp"
  },
+ "70fe997cccc7": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg3/2lSxi3/1QXN8K_SX450Y338/1698752554/philips-499p9h-ultrawide-va-hdr-curved-monitor-488-5120x1440-60hz-5ms.webp"
+ },
  "70ff0a22b925": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -88840,9 +89020,9 @@
  },
  "71c01060a5ee": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "shopflix",
-  "u": "https://cdn.shopflix.gr/products/SFA-200989516/images/530/20260408201736_sf_200989516_27846.webp"
+  "u": "https://cdn.shopflix.gr/products/SFA-201098950/images/530/20260409032519_sf_201098950_32441.webp"
  },
  "71c06f1366a5": {
   "c": "headphones",
@@ -92616,6 +92796,12 @@
   "d": "2026-10-03",
   "s": "bestprice"
  },
+ "7699e4dea17f": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg47/2mqiJN/1VOkYh_SX657Y493/1770381001/ag-neovo-tx-1702-tn-monitor-17-1280x1024-75hz-3ms.webp"
+ },
  "769a350cbec7": {
   "c": "storage",
   "d": "2026-10-03",
@@ -93381,6 +93567,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "779c7345022c": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg51/2lSv6z/1SDQaF_SX900Y675/1723550317/philips-241b8qjeb-ips-monitor-238-1920x1080-fhd-76hz-5ms.webp"
+ },
  "77a3cbf4be75": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -93639,6 +93831,12 @@
   "c": "fan",
   "d": "2026-10-01",
   "s": "shopflix"
+ },
+ "77fcbd36c97d": {
+  "c": "mouse",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-10691677/images/530/10666199.jpg"
  },
  "77fe13e1589e": {
   "c": "headphones",
@@ -94592,9 +94790,9 @@
  },
  "794768b1a1ec": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg15/8zcGb/1XfTe4_SX345Y345/1791723868/roar-rr-0010-black-xxl.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg15/8zcGb/1XwATZ_SX345Y345/1795705007/roar-rr-0010-black-xxl.webp"
  },
  "7947b6bc1e2b": {
   "c": "headphones",
@@ -95853,9 +96051,9 @@
  },
  "7b108019f5d9": {
   "c": "mousepad",
-  "d": "2026-11-26",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg45/dIWm1/1XwygQ_SX500Y500/1795694892/gembird-cloth-black-small-mp-s-bk.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg45/dIWm1/1XwB5C_SX500Y500/1795705728/gembird-cloth-black-small-mp-s-bk.webp"
  },
  "7b10f36da606": {
   "c": "ram",
@@ -96180,6 +96378,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
+ },
+ "7b8352b9a3a2": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg8/eXzJe/1Xw8zO_SX900Y675/1795596124/eizo-flexscan-s2134-ips-monitor-213-1600x1200-61hz-6ms-black.webp"
  },
  "7b8426e20212": {
   "c": "gpu",
@@ -97894,9 +98098,9 @@
  },
  "7db30f08d889": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg41/fxwfv/1Xqtqu_SX500Y500/1794246302/sandberg-foam-black-small-520-37.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg41/fxwfv/1XwDQZ_SX500Y500/1795716353/sandberg-foam-black-small-520-37.webp"
  },
  "7db37a1c8591": {
   "c": "storage",
@@ -98820,6 +99024,12 @@
   "d": "2026-11-12",
   "s": "bestprice"
  },
+ "7ee13614dc42": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-106662982/images/530/1754661947_6972576181350.webp"
+ },
  "7ee202d160a1": {
   "c": "storage",
   "d": "2026-10-03",
@@ -99660,12 +99870,6 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
- "7fe87fa85f76": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg38/axSdg/1XfTe4_SX241Y241/1791723868/iggual-igg316887-xxl-s0228568.webp"
- },
  "7fe8fe6c51a7": {
   "c": "headphones",
   "d": "2026-11-16",
@@ -99874,6 +100078,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg49/e9tDP/1W1e2J_SX500Y500/1773452633/nod-fresh-black-medium-141-0197.webp"
+ },
+ "801fac4ff39b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg51/fH2wj/1XwGyE_SX450Y338/1795726748/samsung-lu28r550uqr-ips-hdr-gaming-monitor-28-3840x2160-4k-uhd-60hz-4ms.webp"
  },
  "802135e4eaea": {
   "c": "headphones",
@@ -101721,6 +101931,12 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
+ "8259244ee47c": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg12/fsD4E/1Xppbi_SX879Y659/1793991656/acer-procreator-pe320qxt-ips-hdr-monitor-315-6016x3384-240hz-4ms-umjp0ee010.webp"
+ },
  "825cd4a6b967": {
   "c": "storage",
   "d": "2026-10-03",
@@ -102304,6 +102520,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "skroutz"
+ },
+ "832b3b22686b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg15/2mqnEP/1VPObM_SX900Y675/1770731642/iiyama-prographic-hb3201uhsnp-b1-ips-hdr-monitor-315-3840x2160-4k-uhd-60hz-4ms.webp"
  },
  "832ba4607cc8": {
   "c": "mouse",
@@ -103830,9 +104052,9 @@
  },
  "84fcef9c092a": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg20/bphe4/1XfTe4_SX500Y500/1791723868/nilox-nxmpe02-blue-small.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg20/bphe4/1XwATZ_SX500Y500/1795705007/nilox-nxmpe02-blue-small.webp"
  },
  "84ff04f37c2b": {
   "c": "headphones",
@@ -104014,6 +104236,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "skroutz"
+ },
+ "852edf2e671b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/fxWax/1XwEuT_SX538Y404/1795718827/iiyama-xcb4594dqsu-b1-ultrawide-va-hdr-curved-monitor-445-5120x1440-165hz-2ms.webp"
  },
  "852fe247c77f": {
   "c": "storage",
@@ -107081,9 +107309,9 @@
  },
  "8920a68a0828": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg31/9SDmf/1XfTe4_SX390Y390/1791723868/nilox-nxmp002-blue-small-s5614511.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg31/9SDmf/1XwATZ_SX390Y390/1795705007/nilox-nxmp002-blue-small-s5614511.webp"
  },
  "8920d441f353": {
   "c": "cooler",
@@ -107212,9 +107440,9 @@
  },
  "894dcfeb13de": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "shopflix",
-  "u": "https://cdn.shopflix.gr/products/SFA-104942854/images/530/1740579182_8713439255959.webp"
+  "u": "https://cdn.shopflix.gr/products/SFA-203244330/images/530/00004614944013_sf_203244330_4614944013.webp"
  },
  "894ffa523dbf": {
   "c": "headphones",
@@ -107230,6 +107458,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "bestprice"
+ },
+ "895fdfe00e56": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg1/2ml99T/1UMaAg_SX577Y433/1755088080/redragon-memphis-ii-bm27v9-ips-gaming-monitor-27-1920x1080-fhd-100hz-5ms-28150005.webp"
  },
  "896114a383cf": {
   "c": "headphones",
@@ -109543,9 +109777,9 @@
  },
  "8c320078bd69": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg23/bpgjl/1XfTe4_SX324Y324/1791723868/iggual-healthy-arg1-black-small-s0238807-igg318935.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg23/bpgjl/1XwATZ_SX324Y324/1795705007/iggual-healthy-arg1-black-small-s0238807-igg318935.webp"
  },
  "8c3264dea5c5": {
   "c": "mousepad",
@@ -110447,9 +110681,9 @@
  },
  "8d48f4448888": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg16/dpSYE/1XoYLK_SX500Y500/1793890128/havit-hv-mp860-black-red-xl.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg51/5TlWX/1XwA9M_SX405Y405/1795702142/havit-hv-mp860-black-red-xl.webp"
  },
  "8d49fe27b23d": {
   "c": "mouse",
@@ -111103,6 +111337,12 @@
   "d": "2026-11-11",
   "s": "bestprice"
  },
+ "8e0330847e19": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg23/2lQLPh/1QXN8K_SX681Y511/1698752554/asus-vz239he-ips-monitor-23-1920x1080-fhd-60hz-5ms.webp"
+ },
  "8e057840487a": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -111156,6 +111396,12 @@
   "c": "storage",
   "d": "2026-11-11",
   "s": "skroutz"
+ },
+ "8e1bdb50f8eb": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg32/2mp6Pm/1Vq3N7_SX900Y675/1764595089/iiyama-prolite-x2792qsu-b1-ips-monitor-27-2560x1440-qhd-120hz-3ms.webp"
  },
  "8e1e08fe45a7": {
   "c": "headphones",
@@ -113107,6 +113353,12 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
+ "90c1cee3d67c": {
+  "c": "mouse",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg14/fxPZk/1XwDQZ_SX500Y667/1795716353/contour-design-unimouse-black-unimouse-l.webp"
+ },
  "90c5e220db41": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -113386,6 +113638,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "skroutz"
+ },
+ "9122a92dba96": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg19/2mlKbV/1UX0bs_SX663Y497/1757669710/acer-cb322qu-ips-hdr-monitor-315-2560x1440-qhd-75hz-1ms-4711121992049.webp"
  },
  "9124b3888ef3": {
   "c": "headphones",
@@ -114097,6 +114355,12 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
+ "920b009257fc": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg58/2m9crE/1RZca7_SX900Y675/1713863403/iiyama-prolite-t2238msc-b1-ips-monitor-215-1920x1080-fhd-83hz-5ms.webp"
+ },
  "920faa650993": {
   "c": "psu",
   "d": "2026-10-01",
@@ -114354,9 +114618,9 @@
  },
  "925a8525b39d": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg34/9ob3I/1XfTe4_SX487Y487/1791723868/keep-out-r2-black-medium.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg20/1nF7C/1XwAtq_SX337Y337/1795703360/keep-out-r2-black-medium.webp"
  },
  "925b1f3943ad": {
   "c": "headphones",
@@ -115025,6 +115289,12 @@
   "c": "storage",
   "d": "2026-10-16",
   "s": "shopflix"
+ },
+ "931f9d2b49e0": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg49/2lQvex/1QXN8K_SX450Y338/1698752554/philips-273v7qdsb-ips-monitor-27-1920x1080-fhd-75hz-5ms.webp"
  },
  "9322d0496924": {
   "c": "headphones",
@@ -117971,6 +118241,12 @@
   "s": "skroutz",
   "u": "https://b.scdn.gr/images/sku_main_images/050800/50800865/xlarge_20240227121224_yenkee_yhp_3036_over_ear_gaming_headset_me_syndesi_usb.jpeg"
  },
+ "96fedd133adf": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/7oZnD/1XlFm1_SX500Y667/1793100513/audizio-anc110-asyrmata-bluetooth-akoystika-dj-over-ear-me-noise-canceling-mayra.webp"
+ },
  "96fffdbd8637": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -117988,9 +118264,9 @@
  },
  "9704f543939e": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg24/2mcF0Q/1TIuzO_SX500Y500/1739435284/satechi-st-lpdm-brown-xlarge-st-lpdmn.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg23/2mcF0P/1TIuzO_SX500Y500/1739435284/satechi-st-lpdm-black-xlarge-st-lpdmk.webp"
  },
  "970652341ea7": {
   "c": "headphones",
@@ -119448,9 +119724,9 @@
  },
  "98e908425b8a": {
   "c": "mousepad",
-  "d": "2026-11-26",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg59/dINIv/1XwxXm_SX500Y500/1795693684/esperanza-egp101k-black-small-74-0061.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg59/dINIv/1XwB5C_SX500Y500/1795705728/esperanza-egp101k-black-small-74-0061.webp"
  },
  "98eb370ffed7": {
   "c": "storage",
@@ -119837,6 +120113,12 @@
   "c": "cooler",
   "d": "2026-10-01",
   "s": "snif"
+ },
+ "9972489c3ad8": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg18/eOXjY/1WGJ3o_SX539Y404/1783343286/viewsonic-vp2788-5k-ips-hdr-monitor-27-5120x2880-5k-60hz-5ms-766907029505.webp"
  },
  "99738a4504a0": {
   "c": "headphones",
@@ -121399,9 +121681,9 @@
  },
  "9b7734297b53": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg8/8zcG4/1XfTe4_SX500Y500/1791723868/nod-r1-rgb-black-medium-5207172002107.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg8/8zcG4/1XwATZ_SX500Y500/1795705007/nod-r1-rgb-black-medium-5207172002107.webp"
  },
  "9b7775e5f17a": {
   "c": "fan",
@@ -124557,6 +124839,12 @@
   "d": "2026-11-02",
   "s": "bestprice"
  },
+ "9f67e381f6f0": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg25/fi6nf/1Xa6Ta_SX697Y523/1790346420/ag-neovo-tm-23-ips-monitor-23-1920x1080-fhd-75hz-5ms-1080fhd.webp"
+ },
  "9f68811dcb2a": {
   "c": "mousepad",
   "d": "2026-11-14",
@@ -125391,12 +125679,6 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
- "a071fd38c112": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg13/cConb/1UiMSp_SX500Y500/1748085437/ert-group-mousepad-dc-batman-22x18cm-y3mm-mayro-ble-wmpbatman002.webp"
- },
  "a07459fa1945": {
   "c": "mobo",
   "d": "2026-10-01",
@@ -125629,9 +125911,9 @@
  },
  "a0b5bfd33b13": {
   "c": "mousepad",
-  "d": "2026-11-20",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg0/4q8Le/1XujOP_SX278Y278/1795162683/naxius-msp-21-rgb-medium-black.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg0/4q8Le/1XwJvD_SX278Y278/1795738093/naxius-msp-21-rgb-medium-black.webp"
  },
  "a0b6a7fa6832": {
   "c": "headphones",
@@ -126318,6 +126600,12 @@
   "d": "2026-11-11",
   "s": "bestprice"
  },
+ "a1c70f694f05": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg39/2mpTgj/1VISHu_SX900Y675/1769080688/iiyama-prolite-xb3294uhscp-b1-va-hdr-monitor-315-3840x2160-4k-uhd-60hz-2ms.webp"
+ },
  "a1c7e95f8298": {
   "c": "ram",
   "d": "2026-10-01",
@@ -126424,12 +126712,6 @@
   "c": "mobo",
   "d": "2026-10-01",
   "s": "shopflix"
- },
- "a1eb45c02546": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg62/2mcB4O/1TGqBk_SX500Y500/1738943346/mars-gaming-mmp124-black-medium-s7839498.webp"
  },
  "a1ec411f9583": {
   "c": "cooler",
@@ -127631,6 +127913,12 @@
   "d": "2026-10-01",
   "s": "shopflix"
  },
+ "a363e0787ca4": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg49/2lSv6x/1QXN8K_SX410Y308/1698752554/viewsonic-td2230-ips-monitor-215-1920x1080-fhd-75hz-5ms.webp"
+ },
  "a36443b338d8": {
   "c": "fan",
   "d": "2026-10-01",
@@ -128152,9 +128440,9 @@
  },
  "a3eec86b7f68": {
   "c": "mousepad",
-  "d": "2026-11-18",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg34/9R5e2/1XsZbO_SX337Y337/1794845056/gembird-gaming-pro-large-gm-gamepro-l.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg38/eH4HA/1XwAtq_SX326Y326/1795703360/gembird-gaming-pro-large-gm-gamepro-l.webp"
  },
  "a3f09e7069e1": {
   "c": "mousepad",
@@ -128672,6 +128960,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "bestprice"
+ },
+ "a4afcf954d9c": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg28/2mcx1q/1TFj4X_SX861Y646/1738676103/lg-24hr513c-ips-monitor-24-1920x1080-fhd-60hz-5ms-24hr513c-baeu.webp"
  },
  "a4b4484e3a65": {
   "c": "storage",
@@ -129220,9 +129514,9 @@
  },
  "a54e1d53e092": {
   "c": "mousepad",
-  "d": "2026-11-25",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg35/dIOPh/1XvZFV_SX409Y409/1795561907/savio-turbo-dynamic-medium.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg33/eCXoR/1XwHh5_SX500Y500/1795729503/savio-turbo-dynamic-medium.webp"
  },
  "a5540c905e20": {
   "c": "monitor",
@@ -129448,9 +129742,9 @@
  },
  "a5a8e894bfdc": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg46/fdVnM/1Xl3j8_SX316Y316/1792954262/gembird-gm-gel2-blue-gm-gel2-blue.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg24/7jTM4/1XwATZ_SX316Y316/1795705007/gembird-gm-gel2-blue-gm-gel2-blue.webp"
  },
  "a5a9eeb22a8f": {
   "c": "headphones",
@@ -130093,6 +130387,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "skroutz"
+ },
+ "a68981d38712": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg33/fDQvn/1Xuo51_SX882Y662/1795179063/asus-pa32dc-oled-hdr-gaming-monitor-315-3840x2160-4k-uhd-75hz-01ms.webp"
  },
  "a68b68509e1a": {
   "c": "mousepad",
@@ -133224,6 +133524,12 @@
   "d": "2026-11-14",
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-102789349/images/530/1725722598_4573201242044.webp"
+ },
+ "aa8ee03cf982": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg21/3WpaB/1SYzV1_SX681Y511/1728492731/asus-be24wqlb-ips-monitor-241-1920x1200-fhd-75hz-5ms.webp"
  },
  "aa8f3848b872": {
   "c": "fan",
@@ -138217,9 +138523,9 @@
  },
  "b0337ac090f8": {
   "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg8/2msh3a/1Wv8ul_SX410Y410/1780581121/oem-baracuda-black-xxl-walrus-xl.webp"
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-202766152/images/530/20260910151848_sf_202766152_89024.webp"
  },
  "b0337f15cc37": {
   "c": "mouse",
@@ -138561,6 +138867,12 @@
   "d": "2026-11-14",
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-203273057/images/530/00004252845960_sf_203273057_4252845960.webp"
+ },
+ "b099b81140dc": {
+  "c": "storage",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg20/2mbxUU/1T6QjV_SX337Y337/1730462403/agi-ai198r-ssd-256gb-m2-nvme-pci-express-30-agi256g80ai198r.webp"
  },
  "b09d218fe31c": {
   "c": "gpu",
@@ -139839,9 +140151,9 @@
  },
  "b24b144d9869": {
   "c": "mousepad",
-  "d": "2026-11-19",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg1/fxRap/1Xqtqu_SX500Y500/1794246302/logitech-studio-series-blue-small-956-000051.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg1/fxRap/1XwEf2_SX500Y500/1795717844/logitech-studio-series-blue-small-956-000051.webp"
  },
  "b24b9137b1bb": {
   "c": "headphones",
@@ -142407,9 +142719,9 @@
  },
  "b56387845d03": {
   "c": "mousepad",
-  "d": "2026-11-25",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg21/dkdTv/1V4zeE_SX500Y500/1759472744/mousepad-dwro-gia-erwteymenoys-love-balloon-white-22x18cm-me-dynatothta-prosthhkhs-onomatos.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg22/dkdTw/1V4zlk_SX500Y500/1759473158/mousepad-dwro-gia-erwteymenoys-love-balloon-22x18cm-me-dynatothta-prosthhkhs-onomatos.webp"
  },
  "b565e13f6a09": {
   "c": "case",
@@ -145281,6 +145593,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "b9099547be04": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg39/2mo3kz/1Vhk6A_SX441Y441/1762512848/yesido-ysp13-akoystika-bluetooth-black-6971050264039.webp"
+ },
  "b90aad46fc98": {
   "c": "storage",
   "d": "2026-11-02",
@@ -147255,12 +147573,6 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
- "bb948e273a52": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg57/2muSRr/1XgWss_SX286Y286/1791974620/steelseries-qck-fortnite-battle-bus-xxl-67506.webp"
- },
  "bb94f9e59ac9": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -148233,6 +148545,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "bceb074aba6e": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg12/4qmfy/1SYzV1_SX900Y675/1728492731/dell-u2421e-ips-monitor-241-1920x1200-fhd-76hz-5ms.webp"
+ },
  "bcebed2dae18": {
   "c": "mobo",
   "d": "2026-10-01",
@@ -148828,6 +149146,12 @@
   "d": "2026-11-14",
   "s": "bestprice"
  },
+ "bdafbe1e270b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg54/9bQpw/1SYzV1_SX740Y555/1728492731/iiyama-prolite-t2252msc-b2-ips-monitor-215-1920x1080-fhd-83hz-5ms.webp"
+ },
  "bdb12402a11b": {
   "c": "mousepad",
   "d": "2026-11-16",
@@ -149248,9 +149572,9 @@
  },
  "be21dac7a833": {
   "c": "mousepad",
-  "d": "2026-11-20",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg40/fxwfu/1Xu5YN_SX500Y500/1795109485/kensington-62386-black-small-62386.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg40/fxwfu/1XwDQZ_SX500Y500/1795716353/kensington-62386-black-small-62386.webp"
  },
  "be2202e6ece1": {
   "c": "monitor",
@@ -149527,9 +149851,9 @@
  },
  "be708002eb04": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg61/axSAl/1XfTe4_SX389Y389/1791723868/nilox-nxmpe01-black-small-s5614513.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg53/bphUV/1XwATZ_SX389Y389/1795705007/nilox-nxmpe01-black-small-s5614513.webp"
  },
  "be71497eeef4": {
   "c": "case",
@@ -149614,12 +149938,6 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "bestprice"
- },
- "be9807ebfa1b": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg60/b8JaI/1XoMb1_SX500Y500/1793841723/ngs-kilim-black-small-s0236698.webp"
  },
  "be9bd153cdab": {
   "c": "headphones",
@@ -150711,6 +151029,12 @@
   "d": "2026-10-22",
   "s": "skroutz"
  },
+ "bff6acca14a9": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg58/dP6d4/1WRT9C_SX877Y658/1786003720/ag-neovo-x-22ew-tn-monitor-215-1920-x-1080-fhd-75hz-3ms-x22e00a1e0100.webp"
+ },
  "bffc6d1530fc": {
   "c": "fan",
   "d": "2026-10-04",
@@ -151535,6 +151859,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg10/euII2/1XqJ1i_SX500Y500/1794306244/wk-wekome-va05-akoystika-bluetooth-earbud-beige.webp"
+ },
+ "c10996f262b0": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg17/frMvT/1XvSYv_SX535Y401/1795536151/benq-bl2780t-ips-monitor-27-1920x1080-fhd-76hz-5ms.webp"
  },
  "c10c5548fa9b": {
   "c": "headphones",
@@ -152757,6 +153087,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "c29069ca7dde": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg48/aOee4/1XmLR1_SX813Y610/1793363827/philips-278b1-ips-monitor-27-3840x2160-4k-uhd-75hz-4ms-8712581764395.webp"
+ },
  "c291f5a666dd": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -153224,9 +153560,9 @@
  },
  "c32cc243b530": {
   "c": "mousepad",
-  "d": "2026-11-26",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg60/dINIw/1XwxXm_SX500Y500/1795693684/esperanza-egp101g-grunge-mini.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg60/dINIw/1XwB5C_SX500Y500/1795705728/esperanza-egp101g-grunge-mini.webp"
  },
  "c3310a12a54c": {
   "c": "monitor",
@@ -153987,6 +154323,12 @@
   "c": "monitor",
   "d": "2026-11-11",
   "s": "skroutz"
+ },
+ "c439af50ebc5": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg50/2m9B7k/1Scgpz_SX496Y372/1716978001/viewsonic-vp3881a-ultrawide-ips-hdr-curved-gaming-monitor-375-3840x1600-qhd-75hz-5ms.webp"
  },
  "c43a823f2123": {
   "c": "fan",
@@ -155180,6 +155522,12 @@
   "c": "case",
   "d": "2026-10-03",
   "s": "skroutz"
+ },
+ "c5b0cc19c27b": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg53/fD3Vz/1XtObj_SX900Y675/1795041069/eizo-coloredge-cs2400r-ips-monitor-241-1920x1200-fhd-61hz-14ms.webp"
  },
  "c5b15f4962ae": {
   "c": "mousepad",
@@ -158251,6 +158599,12 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-106766352/images/530/1755863138_24M_c500713.webp"
  },
+ "c9b23ac74ae6": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-202613713/images/530/20260821093819_sf_202613713_87251.webp"
+ },
  "c9b38b8d34ca": {
   "c": "monitor",
   "d": "2026-11-11",
@@ -158632,6 +158986,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "bestprice"
+ },
+ "ca21053450f0": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg29/2msA8t/1WBYJL_SX601Y451/1782211933/zeuslap-z10t-ips-forhto-monitor-105-1920x1080-fhd-60hz-3ms.webp"
  },
  "ca21c2d6b99a": {
   "c": "case",
@@ -159322,9 +159682,9 @@
  },
  "cb09603d1fcf": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg41/bph7b/1XfTe4_SX369Y369/1791723868/natec-carbon-500-logo-black-large-npg-1459.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg41/bph7b/1XwATZ_SX369Y369/1795705007/natec-carbon-500-logo-black-large-npg-1459.webp"
  },
  "cb0c1a575023": {
   "c": "headphones",
@@ -160526,6 +160886,12 @@
   "c": "storage",
   "d": "2026-10-03",
   "s": "bestprice"
+ },
+ "cc962bea52e5": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg52/fH2wk/1XwGyE_SX900Y675/1795726748/samsung-lf27t450fqr-ips-monitor-27-1920x1080-fhd-75hz-5ms-8806090961748.webp"
  },
  "cc97447e93d6": {
   "c": "headphones",
@@ -162226,6 +162592,12 @@
   "d": "2026-11-11",
   "s": "skroutz"
  },
+ "ce96f9c7b5e1": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg46/fixye/1XdY7N_SX254Y339/1791266043/kensington-k33597ww-on-ear-akoystika-ypologisth-me-mikrofwno-35mm-jack.webp"
+ },
  "ce98bc2d581b": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -162483,6 +162855,12 @@
   "d": "2026-11-14",
   "s": "snif",
   "u": "https://www.websupplies.gr/images/thumbs/0136078.jpeg"
+ },
+ "cee6713968f4": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg35/2muSR5/1XgWss_SX432Y432/1791974620/corsair-mm-pro-control-grey-medium-ch-941c0a1-ww.webp"
  },
  "cee7011f06ca": {
   "c": "mousepad",
@@ -163994,6 +164372,12 @@
   "d": "2026-11-14",
   "s": "skroutz"
  },
+ "d0d5e47b8707": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg56/fhUCY/1XqLBT_SX900Y675/1794316201/fujitsu-b27-9-ts-ips-monitor-27-1920x1080-fhd-75hz-5ms.webp"
+ },
  "d0d76cace175": {
   "c": "mousepad",
   "d": "2026-11-14",
@@ -164451,12 +164835,6 @@
   "c": "fan",
   "d": "2026-10-01",
   "s": "bestprice"
- },
- "d174933c361d": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg3/2mpzsn/1VDtTq_SX500Y500/1767793688/steelseries-qck-aqua-large-63462.webp"
  },
  "d17556121005": {
   "c": "cooler",
@@ -166543,6 +166921,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg46/2mn4ho/1VbUxY_SX434Y580/1761222962/tracer-gamezone-gz-x4-gaming-headset-over-ear-black-traslu47627.webp"
+ },
+ "d3f809dd54f6": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg33/1W6Z3/1WgnvO_SX414Y414/1777063952/zykon-p1-black.webp"
  },
  "d3f976ec06fa": {
   "c": "mouse",
@@ -169184,12 +169568,6 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-13854117/images/530/images_by_date_2023_August_31_08_main_images_3665962005004.jpeg"
  },
- "d7b570109d15": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg11/bqFXZ/1XfTe4_SX500Y500/1791723868/subblim-lunar-xxl-8436586742287.webp"
- },
  "d7b5c8aa6845": {
   "c": "fan",
   "d": "2026-10-01",
@@ -169574,9 +169952,9 @@
  },
  "d83d1688a7fd": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg43/bpgPF/1X10k5_SX308Y308/1788176229/mars-gaming-esg-sonic-black-xxl-8437023094365.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg58/bpgiS/1XwATZ_SX308Y308/1795705007/mars-gaming-esg-sonic-white-xxl-8437023094372.webp"
  },
  "d83d66903493": {
   "c": "headphones",
@@ -170218,6 +170596,12 @@
   "d": "2026-11-14",
   "s": "snif"
  },
+ "d916928ab219": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg23/8ZgQD/1XwBpP_SX795Y596/1795706981/eizo-coloredge-cg2700x-ips-hdr-monitor-27-3840x2160-4k-uhd-61hz-13ms.webp"
+ },
  "d91948a7c426": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -170444,6 +170828,12 @@
   "c": "fan",
   "d": "2026-10-01",
   "s": "bestprice"
+ },
+ "d959ac29d5f5": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg28/eHuMY/1Wzral_SX450Y338/1781606229/ag-neovo-dw3401-ultrawide-ips-monitor-34-3440x1440-76hz-5ms.webp"
  },
  "d95cba1ffe2e": {
   "c": "headphones",
@@ -170915,12 +171305,6 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-00494500/images/530/images_by_date_2023_October_23_10_fullcat_mains_SF_00494500.jpeg"
  },
- "d9d628b07ac9": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg29/eNCDX/1WGDZL_SX500Y500/1783323841/gembird-black-small.webp"
- },
  "d9d66dd12e31": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -171207,9 +171591,9 @@
  },
  "da380eb46e3b": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg22/axTsq/1XfTe4_SX500Y500/1791723868/fellowes-microban-5933805-marine-blue-small.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg22/axTsq/1XwATZ_SX500Y500/1795705007/fellowes-microban-5933805-marine-blue-small.webp"
  },
  "da394c40b98b": {
   "c": "headphones",
@@ -172435,6 +172819,12 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg17/2mdjcB/1TZB39_SX385Y513/1743511743/kef-mu7-asyrmata-bluetooth-akoystika-over-ear-me-noise-cancelling-mayra.webp"
  },
+ "dbf1c50c871d": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg26/2m8CIW/1REwwT_SX766Y575/1708936807/viewsonic-vg2408a-mhd-ips-monitor-238-1920x1080-fhd-100hz-5ms.webp"
+ },
  "dbf2be9de0b3": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -172662,6 +173052,12 @@
   "c": "headphones",
   "d": "2026-11-14",
   "s": "skroutz"
+ },
+ "dc420d7f6b77": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg1/2cufD/1V4R8s_SX500Y500/1759541552/lc-power-mpad-rgb.webp"
  },
  "dc43fd0d398d": {
   "c": "monitor",
@@ -177698,9 +178094,9 @@
  },
  "e27e9ed94bf6": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg19/bxlsf/1XfTe4_SX500Y500/1791723868/natec-fury-challenger-black-large-nfu-0860.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg19/bxlsf/1XwATZ_SX500Y500/1795705007/natec-fury-challenger-black-large-nfu-0860.webp"
  },
  "e27f38f842c9": {
   "c": "headphones",
@@ -178686,12 +179082,6 @@
   "s": "shopflix",
   "u": "https://cdn.shopflix.gr/products/SFA-17843842/images/530/4251442509545.jpeg"
  },
- "e3bfdc09d39e": {
-  "c": "mousepad",
-  "d": "2026-11-14",
-  "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg8/2m9N2M/1ShJhj_SX500Y500/1718280605/subblim-submp-01puw05-xxl-s9906860.webp"
- },
  "e3c131fd02d2": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -179055,9 +179445,9 @@
  },
  "e431ad95c8bf": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg50/bpgau/1XfTe4_SX500Y500/1791723868/manhattan-wrist-rest-434362-black.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg50/bpgau/1XwATZ_SX500Y500/1795705007/manhattan-wrist-rest-434362-black.webp"
  },
  "e435500a1680": {
   "c": "fan",
@@ -179670,9 +180060,9 @@
  },
  "e4f021da7b3b": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg16/8zcGc/1XfTe4_SX299Y299/1791723868/orico-mps8030-black-xxl-mps8030-bk.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg16/8zcGc/1XwATZ_SX299Y299/1795705007/orico-mps8030-black-xxl-mps8030-bk.webp"
  },
  "e4f0771f9013": {
   "c": "headphones",
@@ -180258,6 +180648,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg45/2m9tlb/1S7W1h_SX500Y500/1715946303/powertech-pt-1227-akoystika-bluetooth-in-ear-anthektika-sto-nero-black-112821.webp"
+ },
+ "e5a7b6f45ca7": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg19/eeguv/1WD5K6_SX900Y675/1782477190/iiyama-prographic-hb2701uhsnp-b1-ips-hdr-monitor-27-3840x2160-4k-uhd-60hz-4ms.webp"
  },
  "e5a9b80c76f1": {
   "c": "cooler",
@@ -183199,9 +183595,9 @@
  },
  "e93f742fffb8": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg61/8zcFT/1XfTe4_SX341Y341/1791723868/steelseries-qck-edge-black-xxl-3d24088.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg61/8zcFT/1XwATZ_SX341Y341/1795705007/steelseries-qck-edge-black-xxl-3d24088.webp"
  },
  "e93f8d74abed": {
   "c": "headphones",
@@ -184331,6 +184727,12 @@
   "d": "2026-10-01",
   "s": "snif"
  },
+ "eaa949570d50": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-100118382/images/530/0065030301305.webp"
+ },
  "eaa9993390a0": {
   "c": "mouse",
   "d": "2026-11-14",
@@ -184366,6 +184768,12 @@
   "c": "mouse",
   "d": "2026-11-12",
   "s": "bestprice"
+ },
+ "eab5e6951ade": {
+  "c": "monitor",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg4/dbsJS/1XsVXm_SX827Y620/1794832628/philips-16b1p3302d-ips-forhto-monitor-156-1920x1080-fhd-75hz-4ms.webp"
  },
  "eab5f6f1a28d": {
   "c": "storage",
@@ -186862,6 +187270,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "edcdbd26ac1e": {
+  "c": "mouse",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-104903639/images/530/1740061175_4047443424822.webp"
+ },
  "edcea6510fa5": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -187005,9 +187419,9 @@
  },
  "edf93eb0488c": {
   "c": "mousepad",
-  "d": "2026-11-14",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg31/9tq3l/1XfTe4_SX284Y284/1791723868/nilox-nxmpxxl01-black-xxl-8436556141652.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg31/9tq3l/1XwATZ_SX284Y284/1795705007/nilox-nxmpxxl01-black-xxl-8436556141652.webp"
  },
  "edfbdd428a3d": {
   "c": "fan",
@@ -187143,6 +187557,12 @@
   "d": "2026-11-12",
   "s": "skroutz"
  },
+ "ee2c5f04cd8b": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg59/7bq8b/1SYzV1_SX269Y269/1728492731/paladone-pp8805mcf-minecraft-xl-5055964776138.webp"
+ },
  "ee2d0d53e720": {
   "c": "case",
   "d": "2026-10-01",
@@ -187272,9 +187692,9 @@
  },
  "ee52dd1a37ce": {
   "c": "mousepad",
-  "d": "2026-11-26",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg51/dKetl/1XwxXm_SX500Y500/1795693684/esperanza-grunge-ea146g-medium-ea146g.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg51/dKetl/1XwB5C_SX500Y500/1795705728/esperanza-grunge-ea146g-medium-ea146g.webp"
  },
  "ee539c42f06c": {
   "c": "mouse",
@@ -188452,6 +188872,12 @@
   "d": "2026-11-14",
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg23/2mb5Lp/1SVga7_SX410Y410/1727701803/otl-minecraft-slide-akoystika-bluetooth-earbud-green-629331-5055371629331.webp"
+ },
+ "eff2c88f147b": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-106207688/images/530/1749816811_stocktools_1745727.webp"
  },
  "eff53ea894c7": {
   "c": "headphones",
@@ -189996,6 +190422,12 @@
   "c": "case",
   "d": "2026-10-01",
   "s": "shopflix"
+ },
+ "f1e57c8218bd": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg26/fH2tQ/1XwHXU_SX500Y667/1795732158/sades-sa-920-plus-gaming-headset-over-ear-black-blue-sa-920-bl.webp"
  },
  "f1e747ad18b6": {
   "c": "cooler",
@@ -191571,6 +192003,12 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg1/2mqcKt/1VNfm2_SX351Y351/1770121082/xo-g47-akoystika-bluetooth-open-ear-anthektika-sto-nero-white.webp"
  },
+ "f405261842c3": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "bestprice",
+  "u": "https://bbpcdn.pstatic.gr/bpimg52/2mmTpq/1V8Deb_SX500Y500/1760441403/trust-25717-white-xxl.webp"
+ },
  "f4068668507a": {
   "c": "mouse",
   "d": "2026-11-12",
@@ -193067,6 +193505,12 @@
   "s": "bestprice",
   "u": "https://bbpcdn.pstatic.gr/bpimg31/2mp4mz/1VoWFP_SX500Y667/1764329401/meliconi-speakstreet-ensyrmata-paidika-akoystika-on-ear-prasina-kitrina.webp"
  },
+ "f5f0a5462e32": {
+  "c": "storage",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-201749333/images/530/20260612145912_sf_201749333_69332.webp"
+ },
  "f5f596346b6c": {
   "c": "mousepad",
   "d": "2026-11-14",
@@ -193650,9 +194094,9 @@
  },
  "f6ab0d2320f1": {
   "c": "mousepad",
-  "d": "2026-11-26",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg24/4g5Go/1Xwvtt_SX500Y500/1795684143/kensington-62384-black-small-62384.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg39/fxwft/1XwEf2_SX500Y500/1795717844/kensington-62384-black-small-62384.webp"
  },
  "f6af0608ca49": {
   "c": "headphones",
@@ -198229,6 +198673,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "fca685abd72a": {
+  "c": "headphones",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-10632827/images/530/digital2000_6921815620617.jpg"
+ },
  "fca7beb8d838": {
   "c": "headphones",
   "d": "2026-11-14",
@@ -199501,6 +199951,12 @@
   "d": "2026-10-01",
   "s": "bestprice"
  },
+ "fe6e322ae452": {
+  "c": "mousepad",
+  "d": "2026-11-27",
+  "s": "shopflix",
+  "u": "https://cdn.shopflix.gr/products/SFA-03253444/images/530/20220121100144_logitech_studio_mouse_pad_xl_700mm_mid_grey.jpeg"
+ },
  "fe6f03c60986": {
   "c": "monitor",
   "d": "2026-11-11",
@@ -199518,9 +199974,9 @@
  },
  "fe755d888130": {
   "c": "mousepad",
-  "d": "2026-11-26",
+  "d": "2026-11-27",
   "s": "bestprice",
-  "u": "https://bbpcdn.pstatic.gr/bpimg36/dIWlS/1XwygQ_SX500Y500/1795694892/patriot-viper-v160ouxk-rgb-black-medium.webp"
+  "u": "https://bbpcdn.pstatic.gr/bpimg36/dIWlS/1XwB5C_SX500Y500/1795705728/patriot-viper-v160ouxk-rgb-black-medium.webp"
  },
  "fe75ec9b9dbe": {
   "c": "mouse",
